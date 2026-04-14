@@ -1,0 +1,18 @@
+{
+  "municipio": "RECIFE",
+  "valor_arrecadado": 3802355.68,
+  "qtd_doacoes_efetivadas": 2794,
+  "meta": 5000000.0,
+  "percentual_meta_atingida": 76.05,
+  "potencial_destinacao": 233899868.34,
+  "valor_destinado_declaracao": 3881678.5,
+  "percentual_crianca_adolescente": 58.0,
+  "percentual_pessoa_idosa": 42.0,
+  "valor_estimado_crianca_adolescente": 2205366.29,
+  "valor_estimado_pessoa_idosa": 1596989.39,
+  "taxa_conversao_pagamento": 97.96,
+  "taxa_aproveitamento_potencial": 1.63,
+  "data_referencia_receita": "2026-04-13",
+  "fonte": "Receita Federal do Brasil",
+  "data_processamento": "2026-04-13T15:33:43.000000"
+}

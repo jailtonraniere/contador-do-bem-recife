@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador do Bem - Recife</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="contador-container">
+        <header class="contador-header">
+            <h2>Contador do Bem</h2>
+            <p>Acompanhe a transparência na arrecadação do Imposto de Renda SOLIDÁRIA para nossa cidade.</p>
+        </header>
+
+        <div class="contador-destaque">
+            <span class="label">Valor Efetivamente Arrecadado</span>
+            <div class="valor-principal" id="valor_arrecadado">R$ 0,00</div>
+            <div class="info-arrecadacao">
+                <span class="icone-success">✓</span>
+                <span id="qtd_doacoes_efetivadas">0 doações pagas (DARF) convertidas em repasses</span>
+            </div>
+        </div>
+
+        <div class="contador-cards">
+            <div class="card">
+                <span class="icone">📊</span>
+                <span class="card-valor" id="taxa_conversao">0%</span>
+                <span class="card-label">Taxa de Conversão<br>(Destinado -> Pago)</span>
+            </div>
+            <div class="card">
+                <span class="icone">🧒</span>
+                <span class="card-valor" id="perc_crianca">0%</span>
+                <span class="card-label">Direcionado para<br>Crianças e Adolescentes</span>
+            </div>
+            <div class="card">
+                <span class="icone">👵</span>
+                <span class="card-valor" id="perc_idoso">0%</span>
+                <span class="card-label">Direcionado para<br>Pessoas Idosas</span>
+            </div>
+        </div>
+
+        <div class="info-secundario">
+            <div class="info-item">
+                <span class="info-label">Potencial Total de Destinação:</span>
+                <strong id="potencial_destinacao">R$ 0,00</strong>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Destinações por Localidade (PE):</span>
+                <strong id="destinacoes_por_localidade">R$ 0,00</strong>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Valor Originalmente Destinado:</span>
+                <strong id="valor_destinado_declaracao">R$ 0,00</strong>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Quantidade de Doações Declaradas:</span>
+                <strong id="qtd_doacoes_declaradas">0</strong>
+            </div>
+        </div>
+
+        <footer class="contador-footer">
+            <div class="fonte-info">
+                <p><strong>Fonte Externa Oficial:</strong> <span id="fonte_dados">Carregando...</span></p>
+                <p>Status Conexão: <span id="status_atualizacao" class="badge-status">-</span></p>
+            </div>
+            <div class="datas-info">
+                <p>Posição das Declarações da Receita: <strong id="data_ref_declaracoes">-</strong></p>
+                <p>Posição dos DARFs Pagos da Receita: <strong id="data_ref_darfs">-</strong></p>
+                <p>Extração do painel: <span id="data_processamento">-</span></p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
