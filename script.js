@@ -27,9 +27,10 @@ async function carregarDados() {
         let resposta = null;
         let dados = null;
         
+        const cacheBuster = '?t=' + new Date().getTime();
         for (const path of paths) {
             try {
-                resposta = await fetch(path);
+                resposta = await fetch(path + cacheBuster, { cache: "no-store" });
                 if (resposta.ok) {
                     dados = await resposta.json();
                     break;
