@@ -1,0 +1,50 @@
+name: Atualizar Dados Receita
+
+on:
+  schedule:
+    # Roda todos os dias às 08:00 e 18:00 UTC (05:00 e 15:00 no Brasil)
+    - cron: '0 8,18 * * *'
+  workflow_dispatch: # Permite rodar manualmente no GitHub
+
+jobs:
+  coletar_dados:
+    runs-on: ubuntu-latest
+    
+    # É necessário dar permissão de escrita para o token do GITHUB, para que ele possa fazer o commit e push
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+        
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+        
+      - name: Rodar script coletor
+        run: python coletor_receita_v2.py
+        
+      - name: Verificar se há mudanças
+        id: verificar_mudancas
+        run: |
+          if [[ -z $(git status -s) ]]; then
+            echo "has_changes=false" >> $GITHUB_ENV
+            echo "Nenhuma mudança nos arquivos de dados."
+          else
+            echo "has_changes=true" >> $GITHUB_ENV
+            echo "Foram detectadas mudanças nos arquivos de dados."
+          fi
+          
+      - name: Fazer commit e push das mudanças
+        if: env.has_changes == 'true'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "chore(dados): atualização diária via GitHub Actions"
+          git push
