@@ -4,22 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contador do Bem - Recife</title>
+    <meta name="description" content="Acompanhe em tempo real as doações do Imposto de Renda destinadas aos Fundos da Criança e do Idoso em Recife.">
     <link rel="stylesheet" href="./style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
 
     <main class="dashboard-container">
         
         <header class="header">
-            <h1 class="main-title">CONTADOR DO BEM</h1>
+            <h1 class="main-title">Contador do Bem</h1>
             <div class="main-value-group">
                 <div class="main-value" id="valor_arrecadado">
                     <span class="currency">R$</span>
                     <span class="amount">0,00</span>
                 </div>
                 <div class="main-meta">
-                    <span class="main-label">VALOR ARRECADADO ATÉ O MOMENTO</span>
+                    <span class="main-label">Valor arrecadado até o momento</span>
                     <span class="badge" id="qtd_doacoes_efetivadas">0 doações pagas</span>
                 </div>
             </div>
@@ -33,7 +34,7 @@
                 <h3 class="dist-label">Criança e<br>Adolescente</h3>
                 <div class="dist-value" id="perc_crianca">0%</div>
                 <div class="progress-container">
-                    <div class="progress-bar" id="bar_crianca" style="width: 0%"></div>
+                    <div class="progress-bar bar-crianca" id="bar_crianca" style="width: 0%"></div>
                 </div>
             </div>
 
@@ -44,7 +45,7 @@
                 <h3 class="dist-label">Pessoa<br>Idosa</h3>
                 <div class="dist-value" id="perc_idoso">0%</div>
                 <div class="progress-container">
-                    <div class="progress-bar" id="bar_idoso" style="width: 0%"></div>
+                    <div class="progress-bar bar-idoso" id="bar_idoso" style="width: 0%"></div>
                 </div>
             </div>
         </section>
@@ -55,39 +56,47 @@
                     <div class="gauge-body">
                         <div class="gauge-fill" id="gauge_fill"></div>
                         <div class="gauge-cover">
-                            <span class="gauge-label">Taxa de Conversão</span>
                             <span class="gauge-value" id="taxa_conversao">0%</span>
                         </div>
                     </div>
                 </div>
-                <p class="gauge-subtext">Taxa de Conversão • Impacto Social</p>
+                <h3 class="gauge-title">Taxa de Conversão</h3>
+                <p class="gauge-subtext">Declarado vs. Efetivamente Pago</p>
             </div>
 
-            <div class="potencial-card">
-                <div class="potencial-content">
-                    <h3 class="potencial-label">POTENCIAL DE DESTINAÇÃO DO RECIFE</h3>
-                    <div class="potencial-value" id="potencial_destinacao">
+            <div class="destinado-card">
+                <div class="destinado-content">
+                    <h3 class="destinado-label">Destinado na declaração 2026</h3>
+                    <div class="destinado-value" id="valor_destinado">
                         <span class="currency">R$</span>
                         <span class="amount">0,00</span>
                     </div>
+                    <p class="destinado-subtext">Valor declarado pelos contribuintes</p>
                 </div>
-                <div class="potencial-icon">
+                <div class="destinado-icon">
                     <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M12 2C6.48 2 2 4.69 2 8s4.48 6 10 6 10-2.69 10-6-4.48-6-10-6z" fill="currentColor"/>
-                        <path d="M22 12c0 3.31-4.48 6-10 6S2 15.31 2 12c0-1.12.51-2.15 1.39-3.03C4.85 11.23 8.32 12.5 12 12.5s7.15-1.27 8.61-3.53c.88.88 1.39 1.91 1.39 3.03z" fill="currentColor" opacity="0.6"/>
-                        <path d="M22 16c0 3.31-4.48 6-10 6S2 19.31 2 16c0-1.12.51-2.15 1.39-3.03C4.85 15.23 8.32 16.5 12 16.5s7.15-1.27 8.61-3.53c.88.88 1.39 1.91 1.39 3.03z" fill="currentColor" opacity="0.3"/>
+                        <path d="M14 2H6C4.9 2 4 2.9 4 4v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6z" fill="currentColor" opacity="0.2"/>
+                        <path d="M14 2H6C4.9 2 4 2.9 4 4v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                        <path d="M14 2v6h6" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                        <path d="M9 15l2 2 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
                     </svg>
                 </div>
             </div>
         </section>
 
         <footer class="footer">
-            <p class="footer-info">
-                <span>Fonte: <strong id="fonte_dados">Prefeitura do Recife</strong></span>
-                <span class="separator">|</span>
-                <span>Atualizado em <strong id="data_processamento">--/--/----</strong></span>
-            </p>
-        </section>
+            <div class="footer-info">
+                <div class="footer-item">
+                    <span class="footer-label">Fonte</span>
+                    <span class="footer-value" id="fonte_dados">Receita Federal do Brasil</span>
+                </div>
+                <div class="footer-divider"></div>
+                <div class="footer-item">
+                    <span class="footer-label">Atualizado em</span>
+                    <span class="footer-value" id="data_processamento">--/--/----</span>
+                </div>
+            </div>
+        </footer>
     </main>
 
     <script src="./script.js"></script>

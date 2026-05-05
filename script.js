@@ -3,15 +3,12 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const formatadores = {
-    // Formatter for currency values without the symbol
     moedaNum: new Intl.NumberFormat('pt-BR', { 
         minimumFractionDigits: 2, 
         maximumFractionDigits: 2 
     }),
     numero: new Intl.NumberFormat('pt-BR'),
-    // Consistent rounding for percentages
     percentual: (valor) => {
-        // If it's a whole number, show no decimals. Otherwise show 1.
         const decimals = valor % 1 === 0 ? 0 : 1;
         return valor.toLocaleString('pt-BR', { 
             minimumFractionDigits: decimals, 
@@ -38,7 +35,7 @@ async function carregarDados() {
             } catch (e) {}
         }
 
-        if (!dados) throw new Error(`Falha ao carregar dados.`);
+        if (!dados) throw new Error('Falha ao carregar dados.');
         
         if(dados.status_atualizacao === "SUCESSO") {
             atualizarInterface(dados);
@@ -49,7 +46,7 @@ async function carregarDados() {
 }
 
 function atualizarInterface(dados) {
-    // 1. Bloco Principal (Animated amount only)
+    // 1. Bloco Principal
     animarValor('valor_arrecadado', dados.valor_arrecadado, formatadores.moedaNum, '.amount');
     document.getElementById('qtd_doacoes_efetivadas').textContent = `${formatadores.numero.format(dados.qtd_doacoes_efetivadas)} doações pagas`;
 
@@ -64,8 +61,8 @@ function atualizarInterface(dados) {
     animarValor('taxa_conversao', dados.taxa_conversao_pagamento, { format: formatadores.percentual });
     atualizarGauge(dados.taxa_conversao_pagamento);
 
-    // 4. Potencial card
-    animarValor('potencial_destinacao', dados.potencial_destinacao, formatadores.moedaNum, '.amount');
+    // 4. Destinado na declaração 2026
+    animarValor('valor_destinado', dados.valor_destinado_declaracao, formatadores.moedaNum, '.amount');
 
     // 5. Footer
     document.getElementById('fonte_dados').textContent = dados.fonte;
@@ -76,9 +73,8 @@ function atualizarInterface(dados) {
 function atualizarGauge(percentual) {
     const gaugeBody = document.querySelector('.gauge-body');
     if (!gaugeBody) return;
-    // 180 degrees is the max for a semi-circle
     const graus = (percentual / 100) * 180;
-    gaugeBody.style.background = `conic-gradient(from 270deg, var(--gauge-green) 0deg, var(--gauge-green) ${graus}deg, #F1F3F5 ${graus}deg)`;
+    gaugeBody.style.background = `conic-gradient(from 270deg, var(--gauge-green) 0deg, var(--gauge-green) ${graus}deg, var(--gauge-track) ${graus}deg)`;
 }
 
 function animarValor(elementoId, valorFinal, formatador, seletorInterno = null) {
@@ -89,12 +85,11 @@ function animarValor(elementoId, valorFinal, formatador, seletorInterno = null) 
     if (!elementoAlvo) return;
 
     let inicio = null;
-    const duracao = 1500; // Slightly faster for responsiveness
+    const duracao = 1500;
     
     function step(timestamp) {
         if (!inicio) inicio = timestamp;
         const progresso = Math.min((timestamp - inicio) / duracao, 1);
-        // Smoother quintic easing
         const progressoEasing = 1 - Math.pow(1 - progresso, 4);
         const valorAtual = progressoEasing * valorFinal;
         
