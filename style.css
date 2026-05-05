@@ -276,15 +276,17 @@ body {
     background: var(--white);
     border-radius: 50%;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.04);
+    z-index: 1;
 }
 
 .gauge-cover {
     position: absolute;
-    bottom: 2px;
+    bottom: 4px;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
-    z-index: 2;
+    z-index: 3;
+    text-align: center;
 }
 
 .gauge-value {
