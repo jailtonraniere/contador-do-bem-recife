@@ -2,7 +2,7 @@
   "municipio": "RECIFE",
   "valor_arrecadado": 320605.98,
   "qtd_doacoes_efetivadas": 304,
-  "potencial_destinacao": 83505905.45,
+  "potencial_destinacao": 83506801.53,
   "destinacoes_por_localidade": 1714160.94,
   "valor_destinado_declaracao": 734386.96,
   "qtd_doacoes_declaradas": 755,
@@ -15,6 +15,6 @@
   "data_referencia_declaracoes": "05/05/2026",
   "data_referencia_darfs": "04/05/2026",
   "fonte": "Receita Federal do Brasil",
-  "data_processamento": "2026-05-07T10:24:46.588974",
+  "data_processamento": "2026-05-07T19:43:15.305428",
   "status_atualizacao": "SUCESSO"
 }
