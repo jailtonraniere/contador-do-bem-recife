@@ -14,7 +14,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226043"
+    "data_processamento": "2026-05-19T19:51:42.358576"
   },
   {
     "municipio": "ABREU E LIMA",
@@ -31,12 +31,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226053"
+    "data_processamento": "2026-05-19T19:51:42.358588"
   },
   {
     "municipio": "AFOGADOS DA INGAZEIRA",
-    "potencial_destinacao_valor": 647381.86,
-    "potencial_destinacao_contribuintes": 978.0,
+    "potencial_destinacao_valor": 647411.96,
+    "potencial_destinacao_contribuintes": 979.0,
     "destinacoes_por_localidade_valor": 3950.57,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 6419.97,
@@ -48,7 +48,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226054"
+    "data_processamento": "2026-05-19T19:51:42.358590"
   },
   {
     "municipio": "AFRANIO",
@@ -65,7 +65,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226056"
+    "data_processamento": "2026-05-19T19:51:42.358591"
   },
   {
     "municipio": "AGRESTINA",
@@ -82,12 +82,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226057"
+    "data_processamento": "2026-05-19T19:51:42.358593"
   },
   {
     "municipio": "AGUA PRETA",
-    "potencial_destinacao_valor": 151703.26,
-    "potencial_destinacao_contribuintes": 381.0,
+    "potencial_destinacao_valor": 151656.76,
+    "potencial_destinacao_contribuintes": 380.0,
     "destinacoes_por_localidade_valor": 1601.47,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 2228.47,
@@ -99,7 +99,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226059"
+    "data_processamento": "2026-05-19T19:51:42.358594"
   },
   {
     "municipio": "AGUAS BELAS",
@@ -116,7 +116,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226060"
+    "data_processamento": "2026-05-19T19:51:42.358595"
   },
   {
     "municipio": "ALAGOINHA",
@@ -133,7 +133,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226063"
+    "data_processamento": "2026-05-19T19:51:42.358598"
   },
   {
     "municipio": "ALIANCA",
@@ -150,7 +150,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226065"
+    "data_processamento": "2026-05-19T19:51:42.358600"
   },
   {
     "municipio": "ALTINHO",
@@ -167,7 +167,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226069"
+    "data_processamento": "2026-05-19T19:51:42.358606"
   },
   {
     "municipio": "AMARAJI",
@@ -184,7 +184,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226070"
+    "data_processamento": "2026-05-19T19:51:42.358608"
   },
   {
     "municipio": "ANGELIM",
@@ -201,7 +201,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226071"
+    "data_processamento": "2026-05-19T19:51:42.358609"
   },
   {
     "municipio": "ARACOIABA",
@@ -218,7 +218,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226073"
+    "data_processamento": "2026-05-19T19:51:42.358610"
   },
   {
     "municipio": "ARARIPINA",
@@ -235,12 +235,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226074"
+    "data_processamento": "2026-05-19T19:51:42.358611"
   },
   {
     "municipio": "ARCOVERDE",
-    "potencial_destinacao_valor": 1597134.5,
-    "potencial_destinacao_contribuintes": 2540.0,
+    "potencial_destinacao_valor": 1596709.22,
+    "potencial_destinacao_contribuintes": 2539.0,
     "destinacoes_por_localidade_valor": 56726.77,
     "destinacoes_por_localidade_contribuintes": 63.0,
     "valor_destinado_fundo": 397158.08,
@@ -252,7 +252,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226075"
+    "data_processamento": "2026-05-19T19:51:42.358612"
   },
   {
     "municipio": "BARRA DE GUABIRABA",
@@ -269,7 +269,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226076"
+    "data_processamento": "2026-05-19T19:51:42.358613"
   },
   {
     "municipio": "BARREIROS",
@@ -286,7 +286,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226077"
+    "data_processamento": "2026-05-19T19:51:42.358614"
   },
   {
     "municipio": "BELEM DE MARIA",
@@ -303,7 +303,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226078"
+    "data_processamento": "2026-05-19T19:51:42.358615"
   },
   {
     "municipio": "BELEM DE SAO FRANCISCO",
@@ -320,7 +320,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226099"
+    "data_processamento": "2026-05-19T19:51:42.358616"
   },
   {
     "municipio": "BELO JARDIM",
@@ -337,7 +337,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226104"
+    "data_processamento": "2026-05-19T19:51:42.358620"
   },
   {
     "municipio": "BETANIA",
@@ -354,7 +354,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226106"
+    "data_processamento": "2026-05-19T19:51:42.358621"
   },
   {
     "municipio": "BEZERROS",
@@ -371,7 +371,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226108"
+    "data_processamento": "2026-05-19T19:51:42.358622"
   },
   {
     "municipio": "BODOCO",
@@ -388,7 +388,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226110"
+    "data_processamento": "2026-05-19T19:51:42.358623"
   },
   {
     "municipio": "BOM CONSELHO",
@@ -405,7 +405,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226111"
+    "data_processamento": "2026-05-19T19:51:42.358624"
   },
   {
     "municipio": "BOM JARDIM",
@@ -422,7 +422,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226113"
+    "data_processamento": "2026-05-19T19:51:42.358625"
   },
   {
     "municipio": "BONITO",
@@ -439,7 +439,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226115"
+    "data_processamento": "2026-05-19T19:51:42.358626"
   },
   {
     "municipio": "BREJAO",
@@ -456,7 +456,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226116"
+    "data_processamento": "2026-05-19T19:51:42.358627"
   },
   {
     "municipio": "BREJINHO",
@@ -473,7 +473,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226118"
+    "data_processamento": "2026-05-19T19:51:42.358628"
   },
   {
     "municipio": "BREJO DA MADRE DE DEUS",
@@ -490,7 +490,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226120"
+    "data_processamento": "2026-05-19T19:51:42.358629"
   },
   {
     "municipio": "BUENOS AIRES",
@@ -507,7 +507,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226123"
+    "data_processamento": "2026-05-19T19:51:42.358632"
   },
   {
     "municipio": "BUIQUE",
@@ -524,12 +524,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226125"
+    "data_processamento": "2026-05-19T19:51:42.358634"
   },
   {
     "municipio": "CABO DE SANTO AGOSTINHO",
-    "potencial_destinacao_valor": 2733632.1,
-    "potencial_destinacao_contribuintes": 6936.0,
+    "potencial_destinacao_valor": 2734869.97,
+    "potencial_destinacao_contribuintes": 6938.0,
     "destinacoes_por_localidade_valor": 30383.34,
     "destinacoes_por_localidade_contribuintes": 30.0,
     "valor_destinado_fundo": 14981.66,
@@ -541,7 +541,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226127"
+    "data_processamento": "2026-05-19T19:51:42.358635"
   },
   {
     "municipio": "CABROBO",
@@ -558,7 +558,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226128"
+    "data_processamento": "2026-05-19T19:51:42.358635"
   },
   {
     "municipio": "CACHOEIRINHA",
@@ -575,7 +575,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226130"
+    "data_processamento": "2026-05-19T19:51:42.358637"
   },
   {
     "municipio": "CAETES",
@@ -592,7 +592,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226132"
+    "data_processamento": "2026-05-19T19:51:42.358638"
   },
   {
     "municipio": "CALCADO",
@@ -609,7 +609,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226133"
+    "data_processamento": "2026-05-19T19:51:42.358639"
   },
   {
     "municipio": "CALUMBI",
@@ -626,12 +626,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226135"
+    "data_processamento": "2026-05-19T19:51:42.358640"
   },
   {
     "municipio": "CAMARAGIBE",
-    "potencial_destinacao_valor": 3843806.97,
-    "potencial_destinacao_contribuintes": 6301.0,
+    "potencial_destinacao_valor": 3835445.22,
+    "potencial_destinacao_contribuintes": 6299.0,
     "destinacoes_por_localidade_valor": 45949.37,
     "destinacoes_por_localidade_contribuintes": 42.0,
     "valor_destinado_fundo": 25763.24,
@@ -643,7 +643,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226136"
+    "data_processamento": "2026-05-19T19:51:42.358641"
   },
   {
     "municipio": "CAMOCIM DE SAO FELIX",
@@ -660,7 +660,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226138"
+    "data_processamento": "2026-05-19T19:51:42.358642"
   },
   {
     "municipio": "CAMUTANGA",
@@ -677,7 +677,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226142"
+    "data_processamento": "2026-05-19T19:51:42.358646"
   },
   {
     "municipio": "CANHOTINHO",
@@ -694,7 +694,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226143"
+    "data_processamento": "2026-05-19T19:51:42.358647"
   },
   {
     "municipio": "CAPOEIRAS",
@@ -711,7 +711,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226145"
+    "data_processamento": "2026-05-19T19:51:42.358648"
   },
   {
     "municipio": "CARNAIBA",
@@ -728,7 +728,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226147"
+    "data_processamento": "2026-05-19T19:51:42.358649"
   },
   {
     "municipio": "CARNAUBEIRA DA PENHA",
@@ -745,7 +745,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226149"
+    "data_processamento": "2026-05-19T19:51:42.358650"
   },
   {
     "municipio": "CARPINA",
@@ -762,7 +762,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226150"
+    "data_processamento": "2026-05-19T19:51:42.358651"
   },
   {
     "municipio": "CARUARU",
@@ -779,7 +779,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226152"
+    "data_processamento": "2026-05-19T19:51:42.358652"
   },
   {
     "municipio": "CASINHAS",
@@ -796,7 +796,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226153"
+    "data_processamento": "2026-05-19T19:51:42.358653"
   },
   {
     "municipio": "CATENDE",
@@ -813,12 +813,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226154"
+    "data_processamento": "2026-05-19T19:51:42.358654"
   },
   {
     "municipio": "CEDRO",
-    "potencial_destinacao_valor": 53234.55,
-    "potencial_destinacao_contribuintes": 340.0,
+    "potencial_destinacao_valor": 53079.98,
+    "potencial_destinacao_contribuintes": 339.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
     "valor_destinado_fundo": 0.0,
@@ -830,7 +830,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226155"
+    "data_processamento": "2026-05-19T19:51:42.358655"
   },
   {
     "municipio": "CHA DE ALEGRIA",
@@ -847,12 +847,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226162"
+    "data_processamento": "2026-05-19T19:51:42.358659"
   },
   {
     "municipio": "CHA GRANDE",
-    "potencial_destinacao_valor": 130778.92,
-    "potencial_destinacao_contribuintes": 253.0,
+    "potencial_destinacao_valor": 129740.19,
+    "potencial_destinacao_contribuintes": 252.0,
     "destinacoes_por_localidade_valor": 1534.25,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 4928.29,
@@ -864,7 +864,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226163"
+    "data_processamento": "2026-05-19T19:51:42.358660"
   },
   {
     "municipio": "CONDADO",
@@ -881,7 +881,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226164"
+    "data_processamento": "2026-05-19T19:51:42.358660"
   },
   {
     "municipio": "CORRENTES",
@@ -898,7 +898,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226165"
+    "data_processamento": "2026-05-19T19:51:42.358661"
   },
   {
     "municipio": "CORTES",
@@ -915,7 +915,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226166"
+    "data_processamento": "2026-05-19T19:51:42.358662"
   },
   {
     "municipio": "CUMARU",
@@ -932,7 +932,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226167"
+    "data_processamento": "2026-05-19T19:51:42.358663"
   },
   {
     "municipio": "CUPIRA",
@@ -949,7 +949,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226168"
+    "data_processamento": "2026-05-19T19:51:42.358664"
   },
   {
     "municipio": "CUSTODIA",
@@ -966,7 +966,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226169"
+    "data_processamento": "2026-05-19T19:51:42.358665"
   },
   {
     "municipio": "DORMENTES",
@@ -983,7 +983,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226170"
+    "data_processamento": "2026-05-19T19:51:42.358666"
   },
   {
     "municipio": "ESCADA",
@@ -1000,7 +1000,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226171"
+    "data_processamento": "2026-05-19T19:51:42.358668"
   },
   {
     "municipio": "ESTADUAL",
@@ -1017,7 +1017,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226175"
+    "data_processamento": "2026-05-19T19:51:42.358676"
   },
   {
     "municipio": "EXU",
@@ -1034,7 +1034,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226176"
+    "data_processamento": "2026-05-19T19:51:42.358677"
   },
   {
     "municipio": "FEIRA NOVA",
@@ -1051,7 +1051,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226177"
+    "data_processamento": "2026-05-19T19:51:42.358680"
   },
   {
     "municipio": "FERNANDO DE NORONHA",
@@ -1068,7 +1068,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226178"
+    "data_processamento": "2026-05-19T19:51:42.358682"
   },
   {
     "municipio": "FERREIROS",
@@ -1085,7 +1085,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226179"
+    "data_processamento": "2026-05-19T19:51:42.358683"
   },
   {
     "municipio": "FLORES",
@@ -1102,7 +1102,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226180"
+    "data_processamento": "2026-05-19T19:51:42.358684"
   },
   {
     "municipio": "FLORESTA",
@@ -1119,7 +1119,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226182"
+    "data_processamento": "2026-05-19T19:51:42.358687"
   },
   {
     "municipio": "FREI MIGUELINHO",
@@ -1136,7 +1136,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226183"
+    "data_processamento": "2026-05-19T19:51:42.358689"
   },
   {
     "municipio": "GAMELEIRA",
@@ -1153,7 +1153,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226184"
+    "data_processamento": "2026-05-19T19:51:42.358690"
   },
   {
     "municipio": "GARANHUNS",
@@ -1170,7 +1170,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226228"
+    "data_processamento": "2026-05-19T19:51:42.358690"
   },
   {
     "municipio": "GLORIA DO GOITA",
@@ -1187,12 +1187,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226232"
+    "data_processamento": "2026-05-19T19:51:42.358694"
   },
   {
     "municipio": "GOIANA",
-    "potencial_destinacao_valor": 1073235.58,
-    "potencial_destinacao_contribuintes": 2759.0,
+    "potencial_destinacao_valor": 1075190.76,
+    "potencial_destinacao_contribuintes": 2760.0,
     "destinacoes_por_localidade_valor": 5957.43,
     "destinacoes_por_localidade_contribuintes": 9.0,
     "valor_destinado_fundo": 4568.04,
@@ -1204,7 +1204,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226233"
+    "data_processamento": "2026-05-19T19:51:42.358695"
   },
   {
     "municipio": "GRANITO",
@@ -1221,7 +1221,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226237"
+    "data_processamento": "2026-05-19T19:51:42.358696"
   },
   {
     "municipio": "GRAVATA",
@@ -1238,7 +1238,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226239"
+    "data_processamento": "2026-05-19T19:51:42.358696"
   },
   {
     "municipio": "IATI",
@@ -1255,7 +1255,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226241"
+    "data_processamento": "2026-05-19T19:51:42.358697"
   },
   {
     "municipio": "IBIMIRIM",
@@ -1272,7 +1272,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226242"
+    "data_processamento": "2026-05-19T19:51:42.358698"
   },
   {
     "municipio": "IBIRAJUBA",
@@ -1289,7 +1289,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226244"
+    "data_processamento": "2026-05-19T19:51:42.358699"
   },
   {
     "municipio": "IGARASSU",
@@ -1306,7 +1306,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226246"
+    "data_processamento": "2026-05-19T19:51:42.358700"
   },
   {
     "municipio": "IGUARACI",
@@ -1323,7 +1323,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226247"
+    "data_processamento": "2026-05-19T19:51:42.358702"
   },
   {
     "municipio": "ILHA DE ITAMARACA",
@@ -1340,7 +1340,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226249"
+    "data_processamento": "2026-05-19T19:51:42.358703"
   },
   {
     "municipio": "INAJA",
@@ -1357,7 +1357,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226254"
+    "data_processamento": "2026-05-19T19:51:42.358706"
   },
   {
     "municipio": "INGAZEIRA",
@@ -1374,7 +1374,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226255"
+    "data_processamento": "2026-05-19T19:51:42.358707"
   },
   {
     "municipio": "IPOJUCA",
@@ -1391,7 +1391,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226257"
+    "data_processamento": "2026-05-19T19:51:42.358708"
   },
   {
     "municipio": "IPUBI",
@@ -1408,7 +1408,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226258"
+    "data_processamento": "2026-05-19T19:51:42.358709"
   },
   {
     "municipio": "ITACURUBA",
@@ -1425,7 +1425,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226260"
+    "data_processamento": "2026-05-19T19:51:42.358710"
   },
   {
     "municipio": "ITAIBA",
@@ -1442,7 +1442,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226262"
+    "data_processamento": "2026-05-19T19:51:42.358711"
   },
   {
     "municipio": "ITAMBE",
@@ -1459,7 +1459,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226263"
+    "data_processamento": "2026-05-19T19:51:42.358712"
   },
   {
     "municipio": "ITAPETIM",
@@ -1476,7 +1476,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226267"
+    "data_processamento": "2026-05-19T19:51:42.358713"
   },
   {
     "municipio": "ITAPISSUMA",
@@ -1493,7 +1493,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226268"
+    "data_processamento": "2026-05-19T19:51:42.358714"
   },
   {
     "municipio": "ITAQUITINGA",
@@ -1510,12 +1510,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226269"
+    "data_processamento": "2026-05-19T19:51:42.358715"
   },
   {
     "municipio": "JABOATAO DOS GUARARAPES",
-    "potencial_destinacao_valor": 15757742.66,
-    "potencial_destinacao_contribuintes": 27432.0,
+    "potencial_destinacao_valor": 15751470.25,
+    "potencial_destinacao_contribuintes": 27430.0,
     "destinacoes_por_localidade_valor": 187450.55,
     "destinacoes_por_localidade_contribuintes": 163.0,
     "valor_destinado_fundo": 71026.97,
@@ -1527,7 +1527,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226272"
+    "data_processamento": "2026-05-19T19:51:42.358718"
   },
   {
     "municipio": "JAQUEIRA",
@@ -1544,7 +1544,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226273"
+    "data_processamento": "2026-05-19T19:51:42.358719"
   },
   {
     "municipio": "JATAUBA",
@@ -1561,7 +1561,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226274"
+    "data_processamento": "2026-05-19T19:51:42.358721"
   },
   {
     "municipio": "JATOBA",
@@ -1578,7 +1578,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226275"
+    "data_processamento": "2026-05-19T19:51:42.358722"
   },
   {
     "municipio": "JOAO ALFREDO",
@@ -1595,7 +1595,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226277"
+    "data_processamento": "2026-05-19T19:51:42.358724"
   },
   {
     "municipio": "JOAQUIM NABUCO",
@@ -1612,7 +1612,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226278"
+    "data_processamento": "2026-05-19T19:51:42.358725"
   },
   {
     "municipio": "JUCATI",
@@ -1629,7 +1629,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226279"
+    "data_processamento": "2026-05-19T19:51:42.358726"
   },
   {
     "municipio": "JUPI",
@@ -1646,7 +1646,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226280"
+    "data_processamento": "2026-05-19T19:51:42.358727"
   },
   {
     "municipio": "JUREMA",
@@ -1663,7 +1663,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226281"
+    "data_processamento": "2026-05-19T19:51:42.358728"
   },
   {
     "municipio": "LAGOA DO CARRO",
@@ -1680,7 +1680,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226282"
+    "data_processamento": "2026-05-19T19:51:42.358728"
   },
   {
     "municipio": "LAGOA DO ITAENGA",
@@ -1697,7 +1697,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226285"
+    "data_processamento": "2026-05-19T19:51:42.358732"
   },
   {
     "municipio": "LAGOA DO OURO",
@@ -1714,7 +1714,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226286"
+    "data_processamento": "2026-05-19T19:51:42.358733"
   },
   {
     "municipio": "LAGOA DOS GATOS",
@@ -1731,7 +1731,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226287"
+    "data_processamento": "2026-05-19T19:51:42.358734"
   },
   {
     "municipio": "LAGOA GRANDE",
@@ -1748,12 +1748,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226288"
+    "data_processamento": "2026-05-19T19:51:42.358735"
   },
   {
     "municipio": "LAJEDO",
     "potencial_destinacao_valor": 156007.54,
-    "potencial_destinacao_contribuintes": 476.0,
+    "potencial_destinacao_contribuintes": 477.0,
     "destinacoes_por_localidade_valor": 2839.76,
     "destinacoes_por_localidade_contribuintes": 9.0,
     "valor_destinado_fundo": 1985.69,
@@ -1765,7 +1765,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226289"
+    "data_processamento": "2026-05-19T19:51:42.358736"
   },
   {
     "municipio": "LIMOEIRO",
@@ -1782,7 +1782,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226290"
+    "data_processamento": "2026-05-19T19:51:42.358736"
   },
   {
     "municipio": "MACAPARANA",
@@ -1799,12 +1799,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226291"
+    "data_processamento": "2026-05-19T19:51:42.358737"
   },
   {
     "municipio": "MACHADOS",
     "potencial_destinacao_valor": 41871.62,
-    "potencial_destinacao_contribuintes": 135.0,
+    "potencial_destinacao_contribuintes": 136.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
     "valor_destinado_fundo": 721.39,
@@ -1816,7 +1816,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226292"
+    "data_processamento": "2026-05-19T19:51:42.358738"
   },
   {
     "municipio": "MANARI",
@@ -1833,7 +1833,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226293"
+    "data_processamento": "2026-05-19T19:51:42.358739"
   },
   {
     "municipio": "MARAIAL",
@@ -1850,7 +1850,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226294"
+    "data_processamento": "2026-05-19T19:51:42.358740"
   },
   {
     "municipio": "MIRANDIBA",
@@ -1867,7 +1867,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226297"
+    "data_processamento": "2026-05-19T19:51:42.358743"
   },
   {
     "municipio": "MOREILANDIA",
@@ -1884,7 +1884,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226298"
+    "data_processamento": "2026-05-19T19:51:42.358744"
   },
   {
     "municipio": "MORENO",
@@ -1901,7 +1901,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226299"
+    "data_processamento": "2026-05-19T19:51:42.358747"
   },
   {
     "municipio": "NAZARE DA MATA",
@@ -1918,11 +1918,11 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226300"
+    "data_processamento": "2026-05-19T19:51:42.358749"
   },
   {
     "municipio": "OLINDA",
-    "potencial_destinacao_valor": 11694954.34,
+    "potencial_destinacao_valor": 11695479.75,
     "potencial_destinacao_contribuintes": 18680.0,
     "destinacoes_por_localidade_valor": 140783.54,
     "destinacoes_por_localidade_contribuintes": 129.0,
@@ -1935,7 +1935,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226301"
+    "data_processamento": "2026-05-19T19:51:42.358750"
   },
   {
     "municipio": "OROBO",
@@ -1952,7 +1952,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226328"
+    "data_processamento": "2026-05-19T19:51:42.358785"
   },
   {
     "municipio": "OROCO",
@@ -1969,12 +1969,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226329"
+    "data_processamento": "2026-05-19T19:51:42.358786"
   },
   {
     "municipio": "OURICURI",
-    "potencial_destinacao_valor": 397569.38,
-    "potencial_destinacao_contribuintes": 934.0,
+    "potencial_destinacao_valor": 397601.27,
+    "potencial_destinacao_contribuintes": 935.0,
     "destinacoes_por_localidade_valor": 3385.2,
     "destinacoes_por_localidade_contribuintes": 6.0,
     "valor_destinado_fundo": 3225.07,
@@ -1986,7 +1986,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226330"
+    "data_processamento": "2026-05-19T19:51:42.358788"
   },
   {
     "municipio": "PALMARES",
@@ -2003,7 +2003,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226332"
+    "data_processamento": "2026-05-19T19:51:42.358789"
   },
   {
     "municipio": "PALMEIRINA",
@@ -2020,7 +2020,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226333"
+    "data_processamento": "2026-05-19T19:51:42.358789"
   },
   {
     "municipio": "PANELAS",
@@ -2037,7 +2037,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226336"
+    "data_processamento": "2026-05-19T19:51:42.358793"
   },
   {
     "municipio": "PARANATAMA",
@@ -2054,7 +2054,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226337"
+    "data_processamento": "2026-05-19T19:51:42.358794"
   },
   {
     "municipio": "PARNAMIRIM",
@@ -2071,7 +2071,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226339"
+    "data_processamento": "2026-05-19T19:51:42.358794"
   },
   {
     "municipio": "PASSIRA",
@@ -2088,7 +2088,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226341"
+    "data_processamento": "2026-05-19T19:51:42.358795"
   },
   {
     "municipio": "PAUDALHO",
@@ -2105,12 +2105,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226342"
+    "data_processamento": "2026-05-19T19:51:42.358796"
   },
   {
     "municipio": "PAULISTA",
-    "potencial_destinacao_valor": 8298333.63,
-    "potencial_destinacao_contribuintes": 17196.0,
+    "potencial_destinacao_valor": 8299466.25,
+    "potencial_destinacao_contribuintes": 17198.0,
     "destinacoes_por_localidade_valor": 55399.25,
     "destinacoes_por_localidade_contribuintes": 88.0,
     "valor_destinado_fundo": 296672.79,
@@ -2122,7 +2122,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226343"
+    "data_processamento": "2026-05-19T19:51:42.358797"
   },
   {
     "municipio": "PEDRA",
@@ -2139,7 +2139,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226344"
+    "data_processamento": "2026-05-19T19:51:42.358798"
   },
   {
     "municipio": "PESQUEIRA",
@@ -2156,7 +2156,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226345"
+    "data_processamento": "2026-05-19T19:51:42.358799"
   },
   {
     "municipio": "PETROLANDIA",
@@ -2173,7 +2173,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226346"
+    "data_processamento": "2026-05-19T19:51:42.358800"
   },
   {
     "municipio": "PETROLINA",
@@ -2190,7 +2190,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226347"
+    "data_processamento": "2026-05-19T19:51:42.358801"
   },
   {
     "municipio": "POCAO",
@@ -2207,7 +2207,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226350"
+    "data_processamento": "2026-05-19T19:51:42.358807"
   },
   {
     "municipio": "POMBOS",
@@ -2224,7 +2224,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226351"
+    "data_processamento": "2026-05-19T19:51:42.358808"
   },
   {
     "municipio": "PRIMAVERA",
@@ -2241,12 +2241,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226352"
+    "data_processamento": "2026-05-19T19:51:42.358809"
   },
   {
     "municipio": "QUIPAPA",
-    "potencial_destinacao_valor": 75737.61,
-    "potencial_destinacao_contribuintes": 220.0,
+    "potencial_destinacao_valor": 76186.49,
+    "potencial_destinacao_contribuintes": 221.0,
     "destinacoes_por_localidade_valor": 1287.94,
     "destinacoes_por_localidade_contribuintes": 1.0,
     "valor_destinado_fundo": 6291.82,
@@ -2258,7 +2258,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226353"
+    "data_processamento": "2026-05-19T19:51:42.358810"
   },
   {
     "municipio": "QUIXABA",
@@ -2275,12 +2275,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226354"
+    "data_processamento": "2026-05-19T19:51:42.358811"
   },
   {
     "municipio": "RECIFE",
-    "potencial_destinacao_valor": 116634004.98,
-    "potencial_destinacao_contribuintes": 108519.0,
+    "potencial_destinacao_valor": 116641061.59,
+    "potencial_destinacao_contribuintes": 108520.0,
     "destinacoes_por_localidade_valor": 3157917.77,
     "destinacoes_por_localidade_contribuintes": 1632.0,
     "valor_destinado_fundo": 1365536.53,
@@ -2292,7 +2292,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226355"
+    "data_processamento": "2026-05-19T19:51:42.358812"
   },
   {
     "municipio": "RIACHO DAS ALMAS",
@@ -2309,7 +2309,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226356"
+    "data_processamento": "2026-05-19T19:51:42.358813"
   },
   {
     "municipio": "RIBEIRAO",
@@ -2326,7 +2326,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226357"
+    "data_processamento": "2026-05-19T19:51:42.358813"
   },
   {
     "municipio": "RIO FORMOSO",
@@ -2343,7 +2343,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226358"
+    "data_processamento": "2026-05-19T19:51:42.358814"
   },
   {
     "municipio": "SAIRE",
@@ -2360,7 +2360,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226359"
+    "data_processamento": "2026-05-19T19:51:42.358815"
   },
   {
     "municipio": "SALGADINHO",
@@ -2377,7 +2377,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226362"
+    "data_processamento": "2026-05-19T19:51:42.358818"
   },
   {
     "municipio": "SALGUEIRO",
@@ -2394,7 +2394,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226363"
+    "data_processamento": "2026-05-19T19:51:42.358819"
   },
   {
     "municipio": "SALOA",
@@ -2411,7 +2411,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226364"
+    "data_processamento": "2026-05-19T19:51:42.358820"
   },
   {
     "municipio": "SANHARO",
@@ -2428,7 +2428,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226365"
+    "data_processamento": "2026-05-19T19:51:42.358821"
   },
   {
     "municipio": "SANTA CRUZ",
@@ -2445,7 +2445,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226366"
+    "data_processamento": "2026-05-19T19:51:42.358822"
   },
   {
     "municipio": "SANTA CRUZ DA BAIXA VERDE",
@@ -2462,7 +2462,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226367"
+    "data_processamento": "2026-05-19T19:51:42.358823"
   },
   {
     "municipio": "SANTA CRUZ DO CAPIBARIBE",
@@ -2479,7 +2479,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226368"
+    "data_processamento": "2026-05-19T19:51:42.358824"
   },
   {
     "municipio": "SANTA FILOMENA",
@@ -2496,7 +2496,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226369"
+    "data_processamento": "2026-05-19T19:51:42.358825"
   },
   {
     "municipio": "SANTA MARIA DA BOA VISTA",
@@ -2513,7 +2513,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226370"
+    "data_processamento": "2026-05-19T19:51:42.358826"
   },
   {
     "municipio": "SANTA MARIA DO CAMBUCA",
@@ -2530,7 +2530,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226371"
+    "data_processamento": "2026-05-19T19:51:42.358827"
   },
   {
     "municipio": "SANTA TEREZINHA",
@@ -2547,7 +2547,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226374"
+    "data_processamento": "2026-05-19T19:51:42.358832"
   },
   {
     "municipio": "SAO BENEDITO DO SUL",
@@ -2564,12 +2564,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226377"
+    "data_processamento": "2026-05-19T19:51:42.358833"
   },
   {
     "municipio": "SAO BENTO DO UNA",
     "potencial_destinacao_valor": 199649.5,
-    "potencial_destinacao_contribuintes": 454.0,
+    "potencial_destinacao_contribuintes": 453.0,
     "destinacoes_por_localidade_valor": 13572.25,
     "destinacoes_por_localidade_contribuintes": 14.0,
     "valor_destinado_fundo": 8797.98,
@@ -2581,7 +2581,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226378"
+    "data_processamento": "2026-05-19T19:51:42.358834"
   },
   {
     "municipio": "SAO CAITANO",
@@ -2598,7 +2598,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226379"
+    "data_processamento": "2026-05-19T19:51:42.358835"
   },
   {
     "municipio": "SAO JOAO",
@@ -2615,7 +2615,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226380"
+    "data_processamento": "2026-05-19T19:51:42.358836"
   },
   {
     "municipio": "SAO JOAQUIM DO MONTE",
@@ -2632,7 +2632,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226381"
+    "data_processamento": "2026-05-19T19:51:42.358837"
   },
   {
     "municipio": "SAO JOSE DA COROA GRANDE",
@@ -2649,7 +2649,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226382"
+    "data_processamento": "2026-05-19T19:51:42.358837"
   },
   {
     "municipio": "SAO JOSE DO BELMONTE",
@@ -2666,12 +2666,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226383"
+    "data_processamento": "2026-05-19T19:51:42.358838"
   },
   {
     "municipio": "SAO JOSE DO EGITO",
     "potencial_destinacao_valor": 302341.01,
-    "potencial_destinacao_contribuintes": 527.0,
+    "potencial_destinacao_contribuintes": 526.0,
     "destinacoes_por_localidade_valor": 4040.27,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 16590.13,
@@ -2683,12 +2683,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226384"
+    "data_processamento": "2026-05-19T19:51:42.358839"
   },
   {
     "municipio": "SAO LOURENCO DA MATA",
-    "potencial_destinacao_valor": 1366263.21,
-    "potencial_destinacao_contribuintes": 3374.0,
+    "potencial_destinacao_valor": 1366378.68,
+    "potencial_destinacao_contribuintes": 3375.0,
     "destinacoes_por_localidade_valor": 10587.29,
     "destinacoes_por_localidade_contribuintes": 15.0,
     "valor_destinado_fundo": 4868.83,
@@ -2700,7 +2700,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226385"
+    "data_processamento": "2026-05-19T19:51:42.358840"
   },
   {
     "municipio": "SAO VICENTE FERRER",
@@ -2717,12 +2717,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226404"
+    "data_processamento": "2026-05-19T19:51:42.358843"
   },
   {
     "municipio": "SERRA TALHADA",
-    "potencial_destinacao_valor": 1474934.53,
-    "potencial_destinacao_contribuintes": 2497.0,
+    "potencial_destinacao_valor": 1474904.43,
+    "potencial_destinacao_contribuintes": 2496.0,
     "destinacoes_por_localidade_valor": 31126.63,
     "destinacoes_por_localidade_contribuintes": 32.0,
     "valor_destinado_fundo": 32370.57,
@@ -2734,7 +2734,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226406"
+    "data_processamento": "2026-05-19T19:51:42.358844"
   },
   {
     "municipio": "SERRITA",
@@ -2751,7 +2751,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226407"
+    "data_processamento": "2026-05-19T19:51:42.358845"
   },
   {
     "municipio": "SERTANIA",
@@ -2768,7 +2768,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226409"
+    "data_processamento": "2026-05-19T19:51:42.358848"
   },
   {
     "municipio": "SIRINHAEM",
@@ -2785,7 +2785,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226411"
+    "data_processamento": "2026-05-19T19:51:42.358850"
   },
   {
     "municipio": "SOLIDAO",
@@ -2802,12 +2802,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226412"
+    "data_processamento": "2026-05-19T19:51:42.358850"
   },
   {
     "municipio": "SURUBIM",
     "potencial_destinacao_valor": 504222.71,
-    "potencial_destinacao_contribuintes": 1065.0,
+    "potencial_destinacao_contribuintes": 1064.0,
     "destinacoes_por_localidade_valor": 18646.27,
     "destinacoes_por_localidade_contribuintes": 27.0,
     "valor_destinado_fundo": 11309.26,
@@ -2819,7 +2819,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226414"
+    "data_processamento": "2026-05-19T19:51:42.358851"
   },
   {
     "municipio": "TABIRA",
@@ -2836,7 +2836,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226415"
+    "data_processamento": "2026-05-19T19:51:42.358852"
   },
   {
     "municipio": "TACAIMBO",
@@ -2853,7 +2853,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226417"
+    "data_processamento": "2026-05-19T19:51:42.358853"
   },
   {
     "municipio": "TACARATU",
@@ -2870,12 +2870,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226419"
+    "data_processamento": "2026-05-19T19:51:42.358854"
   },
   {
     "municipio": "TAMANDARE",
     "potencial_destinacao_valor": 165197.79,
-    "potencial_destinacao_contribuintes": 457.0,
+    "potencial_destinacao_contribuintes": 456.0,
     "destinacoes_por_localidade_valor": 185.29,
     "destinacoes_por_localidade_contribuintes": 1.0,
     "valor_destinado_fundo": 57208.37,
@@ -2887,7 +2887,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226422"
+    "data_processamento": "2026-05-19T19:51:42.358857"
   },
   {
     "municipio": "TAQUARITINGA DO NORTE",
@@ -2904,7 +2904,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226424"
+    "data_processamento": "2026-05-19T19:51:42.358858"
   },
   {
     "municipio": "TEREZINHA",
@@ -2921,7 +2921,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226425"
+    "data_processamento": "2026-05-19T19:51:42.358859"
   },
   {
     "municipio": "TERRA NOVA",
@@ -2938,7 +2938,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226429"
+    "data_processamento": "2026-05-19T19:51:42.358860"
   },
   {
     "municipio": "TIMBAUBA",
@@ -2955,7 +2955,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226431"
+    "data_processamento": "2026-05-19T19:51:42.358861"
   },
   {
     "municipio": "TORITAMA",
@@ -2972,7 +2972,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226433"
+    "data_processamento": "2026-05-19T19:51:42.358862"
   },
   {
     "municipio": "TRACUNHAEM",
@@ -2989,7 +2989,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226435"
+    "data_processamento": "2026-05-19T19:51:42.358863"
   },
   {
     "municipio": "TRINDADE",
@@ -3006,7 +3006,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226444"
+    "data_processamento": "2026-05-19T19:51:42.358864"
   },
   {
     "municipio": "TRIUNFO",
@@ -3023,7 +3023,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226446"
+    "data_processamento": "2026-05-19T19:51:42.358865"
   },
   {
     "municipio": "TUPANATINGA",
@@ -3040,7 +3040,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226448"
+    "data_processamento": "2026-05-19T19:51:42.358866"
   },
   {
     "municipio": "TUPARETAMA",
@@ -3057,7 +3057,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226451"
+    "data_processamento": "2026-05-19T19:51:42.358870"
   },
   {
     "municipio": "VENTUROSA",
@@ -3074,7 +3074,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226453"
+    "data_processamento": "2026-05-19T19:51:42.358871"
   },
   {
     "municipio": "VERDEJANTE",
@@ -3091,7 +3091,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226455"
+    "data_processamento": "2026-05-19T19:51:42.358872"
   },
   {
     "municipio": "VERTENTE DO LERIO",
@@ -3108,7 +3108,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226456"
+    "data_processamento": "2026-05-19T19:51:42.358872"
   },
   {
     "municipio": "VERTENTES",
@@ -3125,7 +3125,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226457"
+    "data_processamento": "2026-05-19T19:51:42.358873"
   },
   {
     "municipio": "VICENCIA",
@@ -3142,12 +3142,12 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226458"
+    "data_processamento": "2026-05-19T19:51:42.358874"
   },
   {
     "municipio": "VITORIA DE SANTO ANTAO",
-    "potencial_destinacao_valor": 1898482.97,
-    "potencial_destinacao_contribuintes": 3621.0,
+    "potencial_destinacao_valor": 1899521.7,
+    "potencial_destinacao_contribuintes": 3622.0,
     "destinacoes_por_localidade_valor": 47715.47,
     "destinacoes_por_localidade_contribuintes": 30.0,
     "valor_destinado_fundo": 32159.95,
@@ -3159,7 +3159,7 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226459"
+    "data_processamento": "2026-05-19T19:51:42.358875"
   },
   {
     "municipio": "XEXEU",
@@ -3176,6 +3176,6 @@
     "data_referencia_declaracoes": "17/05/2026",
     "data_referencia_darfs": "15/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-05-19T11:18:07.226460"
+    "data_processamento": "2026-05-19T19:51:42.358876"
   }
 ]
