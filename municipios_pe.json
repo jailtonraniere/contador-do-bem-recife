@@ -11,49 +11,49 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386611"
+    "data_processamento": "2026-06-08T12:27:59.972506"
   },
   {
     "municipio": "ABREU E LIMA",
-    "potencial_destinacao_valor": 1538550.13,
-    "potencial_destinacao_contribuintes": 4258.0,
+    "potencial_destinacao_valor": 1539222.01,
+    "potencial_destinacao_contribuintes": 4261.0,
     "destinacoes_por_localidade_valor": 14911.12,
     "destinacoes_por_localidade_contribuintes": 24.0,
-    "valor_destinado_fundo": 25852.31,
-    "quantidade_doacoes_declaradas": 39.0,
-    "percentual_crianca_adolescente": 57.7,
-    "percentual_pessoa_idosa": 42.3,
-    "darfs_pagos_valor": 21102.41,
-    "quantidade_doacoes_pagas": 26.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "valor_destinado_fundo": 25370.34,
+    "quantidade_doacoes_declaradas": 38.0,
+    "percentual_crianca_adolescente": 56.9,
+    "percentual_pessoa_idosa": 43.1,
+    "darfs_pagos_valor": 23194.09,
+    "quantidade_doacoes_pagas": 31.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386622"
+    "data_processamento": "2026-06-08T12:27:59.972516"
   },
   {
     "municipio": "AFOGADOS DA INGAZEIRA",
-    "potencial_destinacao_valor": 1110529.68,
-    "potencial_destinacao_contribuintes": 1636.0,
+    "potencial_destinacao_valor": 1110765.09,
+    "potencial_destinacao_contribuintes": 1637.0,
     "destinacoes_por_localidade_valor": 11293.55,
     "destinacoes_por_localidade_contribuintes": 10.0,
     "valor_destinado_fundo": 17558.9,
     "quantidade_doacoes_declaradas": 20.0,
     "percentual_crianca_adolescente": 18.7,
     "percentual_pessoa_idosa": 81.3,
-    "darfs_pagos_valor": 14042.9,
-    "quantidade_doacoes_pagas": 16.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 15107.92,
+    "quantidade_doacoes_pagas": 17.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386624"
+    "data_processamento": "2026-06-08T12:27:59.972517"
   },
   {
     "municipio": "AFRANIO",
-    "potencial_destinacao_valor": 151639.07,
-    "potencial_destinacao_contribuintes": 343.0,
+    "potencial_destinacao_valor": 151677.67,
+    "potencial_destinacao_contribuintes": 344.0,
     "destinacoes_por_localidade_valor": 2336.62,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 12870.77,
@@ -62,15 +62,15 @@
     "percentual_pessoa_idosa": 89.7,
     "darfs_pagos_valor": 12134.92,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386626"
+    "data_processamento": "2026-06-08T12:27:59.972518"
   },
   {
     "municipio": "AGRESTINA",
-    "potencial_destinacao_valor": 182249.91,
-    "potencial_destinacao_contribuintes": 515.0,
+    "potencial_destinacao_valor": 182795.8,
+    "potencial_destinacao_contribuintes": 516.0,
     "destinacoes_por_localidade_valor": 6954.02,
     "destinacoes_por_localidade_contribuintes": 6.0,
     "valor_destinado_fundo": 4746.51,
@@ -79,15 +79,15 @@
     "percentual_pessoa_idosa": 30.8,
     "darfs_pagos_valor": 3218.84,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386627"
+    "data_processamento": "2026-06-08T12:27:59.972519"
   },
   {
     "municipio": "AGUA PRETA",
     "potencial_destinacao_valor": 248258.22,
-    "potencial_destinacao_contribuintes": 569.0,
+    "potencial_destinacao_contribuintes": 570.0,
     "destinacoes_por_localidade_valor": 1601.47,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 2331.65,
@@ -96,15 +96,15 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 2331.65,
     "quantidade_doacoes_pagas": 3.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386628"
+    "data_processamento": "2026-06-08T12:27:59.972521"
   },
   {
     "municipio": "AGUAS BELAS",
     "potencial_destinacao_valor": 410035.79,
-    "potencial_destinacao_contribuintes": 814.0,
+    "potencial_destinacao_contribuintes": 816.0,
     "destinacoes_por_localidade_valor": 7188.07,
     "destinacoes_por_localidade_contribuintes": 6.0,
     "valor_destinado_fundo": 12591.9,
@@ -113,44 +113,44 @@
     "percentual_pessoa_idosa": 77.6,
     "darfs_pagos_valor": 12547.9,
     "quantidade_doacoes_pagas": 14.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386630"
+    "data_processamento": "2026-06-08T12:27:59.972522"
   },
   {
     "municipio": "ALAGOINHA",
-    "potencial_destinacao_valor": 159079.67,
+    "potencial_destinacao_valor": 159125.45,
     "potencial_destinacao_contribuintes": 328.0,
-    "destinacoes_por_localidade_valor": 9787.69,
-    "destinacoes_por_localidade_contribuintes": 10.0,
-    "valor_destinado_fundo": 380417.16,
-    "quantidade_doacoes_declaradas": 193.0,
+    "destinacoes_por_localidade_valor": 9666.83,
+    "destinacoes_por_localidade_contribuintes": 9.0,
+    "valor_destinado_fundo": 380294.04,
+    "quantidade_doacoes_declaradas": 191.0,
     "percentual_crianca_adolescente": 59.1,
     "percentual_pessoa_idosa": 40.9,
-    "darfs_pagos_valor": 348726.47,
-    "quantidade_doacoes_pagas": 161.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 373818.05,
+    "quantidade_doacoes_pagas": 177.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386633"
+    "data_processamento": "2026-06-08T12:27:59.972524"
   },
   {
     "municipio": "ALIANCA",
-    "potencial_destinacao_valor": 349936.57,
-    "potencial_destinacao_contribuintes": 754.0,
+    "potencial_destinacao_valor": 349975.28,
+    "potencial_destinacao_contribuintes": 755.0,
     "destinacoes_por_localidade_valor": 3049.97,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 29631.83,
     "quantidade_doacoes_declaradas": 19.0,
     "percentual_crianca_adolescente": 57.6,
     "percentual_pessoa_idosa": 42.4,
-    "darfs_pagos_valor": 28588.16,
-    "quantidade_doacoes_pagas": 17.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 29588.16,
+    "quantidade_doacoes_pagas": 18.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386635"
+    "data_processamento": "2026-06-08T12:27:59.972526"
   },
   {
     "municipio": "ALTINHO",
@@ -162,17 +162,17 @@
     "quantidade_doacoes_declaradas": 13.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 10215.62,
-    "quantidade_doacoes_pagas": 12.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 10463.76,
+    "quantidade_doacoes_pagas": 13.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386636"
+    "data_processamento": "2026-06-08T12:27:59.972528"
   },
   {
     "municipio": "AMARAJI",
     "potencial_destinacao_valor": 160209.85,
-    "potencial_destinacao_contribuintes": 481.0,
+    "potencial_destinacao_contribuintes": 482.0,
     "destinacoes_por_localidade_valor": 2021.39,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 2741.2,
@@ -181,10 +181,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 2012.45,
     "quantidade_doacoes_pagas": 3.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386639"
+    "data_processamento": "2026-06-08T12:27:59.972531"
   },
   {
     "municipio": "ANGELIM",
@@ -198,14 +198,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386641"
+    "data_processamento": "2026-06-08T12:27:59.972532"
   },
   {
     "municipio": "ARACOIABA",
-    "potencial_destinacao_valor": 116010.27,
+    "potencial_destinacao_valor": 116040.99,
     "potencial_destinacao_contribuintes": 551.0,
     "destinacoes_por_localidade_valor": 1178.92,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -213,85 +213,85 @@
     "quantidade_doacoes_declaradas": 13.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 4604.9,
-    "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 9098.37,
+    "quantidade_doacoes_pagas": 7.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386642"
+    "data_processamento": "2026-06-08T12:27:59.972533"
   },
   {
     "municipio": "ARARIPINA",
-    "potencial_destinacao_valor": 1105300.81,
-    "potencial_destinacao_contribuintes": 1978.0,
+    "potencial_destinacao_valor": 1105588.0,
+    "potencial_destinacao_contribuintes": 1981.0,
     "destinacoes_por_localidade_valor": 51126.44,
     "destinacoes_por_localidade_contribuintes": 39.0,
     "valor_destinado_fundo": 90658.8,
     "quantidade_doacoes_declaradas": 107.0,
     "percentual_crianca_adolescente": 47.0,
     "percentual_pessoa_idosa": 53.0,
-    "darfs_pagos_valor": 82354.08,
-    "quantidade_doacoes_pagas": 92.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 83535.58,
+    "quantidade_doacoes_pagas": 94.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386643"
+    "data_processamento": "2026-06-08T12:27:59.972534"
   },
   {
     "municipio": "ARCOVERDE",
-    "potencial_destinacao_valor": 3071609.33,
-    "potencial_destinacao_contribuintes": 4268.0,
+    "potencial_destinacao_valor": 3079993.0,
+    "potencial_destinacao_contribuintes": 4275.0,
     "destinacoes_por_localidade_valor": 173145.19,
     "destinacoes_por_localidade_contribuintes": 142.0,
     "valor_destinado_fundo": 1089939.92,
     "quantidade_doacoes_declaradas": 923.0,
     "percentual_crianca_adolescente": 59.6,
     "percentual_pessoa_idosa": 40.4,
-    "darfs_pagos_valor": 1002083.21,
-    "quantidade_doacoes_pagas": 812.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 1094242.9,
+    "quantidade_doacoes_pagas": 889.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386644"
+    "data_processamento": "2026-06-08T12:27:59.972536"
   },
   {
     "municipio": "BARRA DE GUABIRABA",
-    "potencial_destinacao_valor": 75594.86,
+    "potencial_destinacao_valor": 75568.47,
     "potencial_destinacao_contribuintes": 174.0,
-    "destinacoes_por_localidade_valor": 5075.2,
+    "destinacoes_por_localidade_valor": 5048.8,
     "destinacoes_por_localidade_contribuintes": 6.0,
-    "valor_destinado_fundo": 1432.04,
+    "valor_destinado_fundo": 1418.84,
     "quantidade_doacoes_declaradas": 3.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 1432.04,
     "quantidade_doacoes_pagas": 3.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386645"
+    "data_processamento": "2026-06-08T12:27:59.972537"
   },
   {
     "municipio": "BARREIROS",
-    "potencial_destinacao_valor": 607034.86,
-    "potencial_destinacao_contribuintes": 1150.0,
+    "potencial_destinacao_valor": 607133.18,
+    "potencial_destinacao_contribuintes": 1152.0,
     "destinacoes_por_localidade_valor": 5723.98,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 26110.68,
     "quantidade_doacoes_declaradas": 19.0,
     "percentual_crianca_adolescente": 77.5,
     "percentual_pessoa_idosa": 22.5,
-    "darfs_pagos_valor": 19095.2,
-    "quantidade_doacoes_pagas": 15.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 23240.7,
+    "quantidade_doacoes_pagas": 17.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386646"
+    "data_processamento": "2026-06-08T12:27:59.972538"
   },
   {
     "municipio": "BELEM DE MARIA",
-    "potencial_destinacao_valor": 74428.44,
-    "potencial_destinacao_contribuintes": 146.0,
+    "potencial_destinacao_valor": 74655.39,
+    "potencial_destinacao_contribuintes": 148.0,
     "destinacoes_por_localidade_valor": 1974.75,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 4047.03,
@@ -300,15 +300,15 @@
     "percentual_pessoa_idosa": 42.2,
     "darfs_pagos_valor": 4047.03,
     "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386647"
+    "data_processamento": "2026-06-08T12:27:59.972539"
   },
   {
     "municipio": "BELEM DE SAO FRANCISCO",
     "potencial_destinacao_valor": 349958.29,
-    "potencial_destinacao_contribuintes": 530.0,
+    "potencial_destinacao_contribuintes": 529.0,
     "destinacoes_por_localidade_valor": 3292.51,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 625.15,
@@ -317,31 +317,31 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 625.15,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386665"
+    "data_processamento": "2026-06-08T12:27:59.972540"
   },
   {
     "municipio": "BELO JARDIM",
-    "potencial_destinacao_valor": 1523027.6,
-    "potencial_destinacao_contribuintes": 3205.0,
-    "destinacoes_por_localidade_valor": 70451.61,
-    "destinacoes_por_localidade_contribuintes": 74.0,
-    "valor_destinado_fundo": 433544.59,
-    "quantidade_doacoes_declaradas": 187.0,
-    "percentual_crianca_adolescente": 79.0,
-    "percentual_pessoa_idosa": 21.0,
-    "darfs_pagos_valor": 320057.27,
-    "quantidade_doacoes_pagas": 152.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "potencial_destinacao_valor": 1523300.15,
+    "potencial_destinacao_contribuintes": 3208.0,
+    "destinacoes_por_localidade_valor": 69549.55,
+    "destinacoes_por_localidade_contribuintes": 72.0,
+    "valor_destinado_fundo": 433099.58,
+    "quantidade_doacoes_declaradas": 186.0,
+    "percentual_crianca_adolescente": 79.1,
+    "percentual_pessoa_idosa": 20.9,
+    "darfs_pagos_valor": 416705.52,
+    "quantidade_doacoes_pagas": 171.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386667"
+    "data_processamento": "2026-06-08T12:27:59.972541"
   },
   {
     "municipio": "BETANIA",
-    "potencial_destinacao_valor": 90185.07,
+    "potencial_destinacao_valor": 90152.05,
     "potencial_destinacao_contribuintes": 322.0,
     "destinacoes_por_localidade_valor": 1035.88,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -351,31 +351,31 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 100.0,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386677"
+    "data_processamento": "2026-06-08T12:27:59.972544"
   },
   {
     "municipio": "BEZERROS",
-    "potencial_destinacao_valor": 954914.25,
-    "potencial_destinacao_contribuintes": 1779.0,
+    "potencial_destinacao_valor": 955070.28,
+    "potencial_destinacao_contribuintes": 1780.0,
     "destinacoes_por_localidade_valor": 25981.84,
     "destinacoes_por_localidade_contribuintes": 29.0,
     "valor_destinado_fundo": 55362.44,
     "quantidade_doacoes_declaradas": 43.0,
     "percentual_crianca_adolescente": 48.2,
     "percentual_pessoa_idosa": 51.8,
-    "darfs_pagos_valor": 48249.45,
-    "quantidade_doacoes_pagas": 37.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 48768.38,
+    "quantidade_doacoes_pagas": 38.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386678"
+    "data_processamento": "2026-06-08T12:27:59.972545"
   },
   {
     "municipio": "BODOCO",
-    "potencial_destinacao_valor": 276363.16,
+    "potencial_destinacao_valor": 276321.28,
     "potencial_destinacao_contribuintes": 559.0,
     "destinacoes_por_localidade_valor": 1045.59,
     "destinacoes_por_localidade_contribuintes": 2.0,
@@ -385,15 +385,15 @@
     "percentual_pessoa_idosa": 36.1,
     "darfs_pagos_valor": 8849.96,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386679"
+    "data_processamento": "2026-06-08T12:27:59.972546"
   },
   {
     "municipio": "BOM CONSELHO",
-    "potencial_destinacao_valor": 566323.92,
-    "potencial_destinacao_contribuintes": 1032.0,
+    "potencial_destinacao_valor": 567687.03,
+    "potencial_destinacao_contribuintes": 1035.0,
     "destinacoes_por_localidade_valor": 6119.66,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 3695.2,
@@ -402,32 +402,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 1700.49,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386680"
+    "data_processamento": "2026-06-08T12:27:59.972547"
   },
   {
     "municipio": "BOM JARDIM",
-    "potencial_destinacao_valor": 294219.42,
-    "potencial_destinacao_contribuintes": 776.0,
+    "potencial_destinacao_valor": 298528.3,
+    "potencial_destinacao_contribuintes": 777.0,
     "destinacoes_por_localidade_valor": 4444.96,
     "destinacoes_por_localidade_contribuintes": 6.0,
     "valor_destinado_fundo": 20938.06,
     "quantidade_doacoes_declaradas": 20.0,
     "percentual_crianca_adolescente": 59.2,
     "percentual_pessoa_idosa": 40.8,
-    "darfs_pagos_valor": 20521.15,
-    "quantidade_doacoes_pagas": 17.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 20718.06,
+    "quantidade_doacoes_pagas": 18.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386681"
+    "data_processamento": "2026-06-08T12:27:59.972548"
   },
   {
     "municipio": "BONITO",
     "potencial_destinacao_valor": 353609.2,
-    "potencial_destinacao_contribuintes": 792.0,
+    "potencial_destinacao_contribuintes": 793.0,
     "destinacoes_por_localidade_valor": 13911.85,
     "destinacoes_por_localidade_contribuintes": 23.0,
     "valor_destinado_fundo": 13996.68,
@@ -436,10 +436,10 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 13996.68,
     "quantidade_doacoes_pagas": 13.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386683"
+    "data_processamento": "2026-06-08T12:27:59.972549"
   },
   {
     "municipio": "BREJAO",
@@ -453,10 +453,10 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 100.0,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386684"
+    "data_processamento": "2026-06-08T12:27:59.972550"
   },
   {
     "municipio": "BREJINHO",
@@ -470,14 +470,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 1630.97,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386685"
+    "data_processamento": "2026-06-08T12:27:59.972551"
   },
   {
     "municipio": "BREJO DA MADRE DE DEUS",
-    "potencial_destinacao_valor": 467548.03,
+    "potencial_destinacao_valor": 467716.34,
     "potencial_destinacao_contribuintes": 796.0,
     "destinacoes_por_localidade_valor": 22677.65,
     "destinacoes_por_localidade_contribuintes": 25.0,
@@ -487,15 +487,15 @@
     "percentual_pessoa_idosa": 44.7,
     "darfs_pagos_valor": 11728.61,
     "quantidade_doacoes_pagas": 11.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386686"
+    "data_processamento": "2026-06-08T12:27:59.972552"
   },
   {
     "municipio": "BUENOS AIRES",
     "potencial_destinacao_valor": 54973.63,
-    "potencial_destinacao_contribuintes": 207.0,
+    "potencial_destinacao_contribuintes": 208.0,
     "destinacoes_por_localidade_valor": 38.0,
     "destinacoes_por_localidade_contribuintes": 1.0,
     "valor_destinado_fundo": 0.0,
@@ -504,32 +504,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386687"
+    "data_processamento": "2026-06-08T12:27:59.972558"
   },
   {
     "municipio": "BUIQUE",
-    "potencial_destinacao_valor": 311235.78,
-    "potencial_destinacao_contribuintes": 795.0,
+    "potencial_destinacao_valor": 311245.05,
+    "potencial_destinacao_contribuintes": 798.0,
     "destinacoes_por_localidade_valor": 8836.42,
     "destinacoes_por_localidade_contribuintes": 9.0,
     "valor_destinado_fundo": 34601.58,
     "quantidade_doacoes_declaradas": 24.0,
     "percentual_crianca_adolescente": 55.4,
     "percentual_pessoa_idosa": 44.6,
-    "darfs_pagos_valor": 31699.5,
-    "quantidade_doacoes_pagas": 20.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 33449.51,
+    "quantidade_doacoes_pagas": 21.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386691"
+    "data_processamento": "2026-06-08T12:27:59.972561"
   },
   {
     "municipio": "CABO DE SANTO AGOSTINHO",
-    "potencial_destinacao_valor": 4882595.36,
-    "potencial_destinacao_contribuintes": 10576.0,
+    "potencial_destinacao_valor": 4891765.55,
+    "potencial_destinacao_contribuintes": 10585.0,
     "destinacoes_por_localidade_valor": 41731.8,
     "destinacoes_por_localidade_contribuintes": 41.0,
     "valor_destinado_fundo": 47571.54,
@@ -538,15 +538,15 @@
     "percentual_pessoa_idosa": 62.6,
     "darfs_pagos_valor": 45353.82,
     "quantidade_doacoes_pagas": 55.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386692"
+    "data_processamento": "2026-06-08T12:27:59.972562"
   },
   {
     "municipio": "CABROBO",
-    "potencial_destinacao_valor": 523442.73,
-    "potencial_destinacao_contribuintes": 936.0,
+    "potencial_destinacao_valor": 524524.97,
+    "potencial_destinacao_contribuintes": 937.0,
     "destinacoes_por_localidade_valor": 12953.04,
     "destinacoes_por_localidade_contribuintes": 12.0,
     "valor_destinado_fundo": 8383.34,
@@ -555,15 +555,15 @@
     "percentual_pessoa_idosa": 48.6,
     "darfs_pagos_valor": 5919.02,
     "quantidade_doacoes_pagas": 8.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386693"
+    "data_processamento": "2026-06-08T12:27:59.972563"
   },
   {
     "municipio": "CACHOEIRINHA",
-    "potencial_destinacao_valor": 181414.01,
-    "potencial_destinacao_contribuintes": 355.0,
+    "potencial_destinacao_valor": 181730.47,
+    "potencial_destinacao_contribuintes": 356.0,
     "destinacoes_por_localidade_valor": 6341.49,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 6651.77,
@@ -572,15 +572,15 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 6651.77,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386695"
+    "data_processamento": "2026-06-08T12:27:59.972564"
   },
   {
     "municipio": "CAETES",
     "potencial_destinacao_valor": 143854.82,
-    "potencial_destinacao_contribuintes": 425.0,
+    "potencial_destinacao_contribuintes": 427.0,
     "destinacoes_por_localidade_valor": 2303.88,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 3849.59,
@@ -589,10 +589,10 @@
     "percentual_pessoa_idosa": 32.9,
     "darfs_pagos_valor": 3168.19,
     "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386698"
+    "data_processamento": "2026-06-08T12:27:59.972565"
   },
   {
     "municipio": "CALCADO",
@@ -606,10 +606,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386699"
+    "data_processamento": "2026-06-08T12:27:59.972566"
   },
   {
     "municipio": "CALUMBI",
@@ -623,27 +623,27 @@
     "percentual_pessoa_idosa": 44.0,
     "darfs_pagos_valor": 8998.7,
     "quantidade_doacoes_pagas": 10.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386700"
+    "data_processamento": "2026-06-08T12:27:59.972567"
   },
   {
     "municipio": "CAMARAGIBE",
-    "potencial_destinacao_valor": 7215815.92,
-    "potencial_destinacao_contribuintes": 10680.0,
+    "potencial_destinacao_valor": 7218301.41,
+    "potencial_destinacao_contribuintes": 10690.0,
     "destinacoes_por_localidade_valor": 101743.58,
     "destinacoes_por_localidade_contribuintes": 77.0,
     "valor_destinado_fundo": 48019.87,
     "quantidade_doacoes_declaradas": 66.0,
     "percentual_crianca_adolescente": 51.8,
     "percentual_pessoa_idosa": 48.2,
-    "darfs_pagos_valor": 40457.37,
-    "quantidade_doacoes_pagas": 59.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 42832.75,
+    "quantidade_doacoes_pagas": 61.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386701"
+    "data_processamento": "2026-06-08T12:27:59.972568"
   },
   {
     "municipio": "CAMOCIM DE SAO FELIX",
@@ -657,10 +657,10 @@
     "percentual_pessoa_idosa": 87.0,
     "darfs_pagos_valor": 37442.73,
     "quantidade_doacoes_pagas": 11.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386702"
+    "data_processamento": "2026-06-08T12:27:59.972569"
   },
   {
     "municipio": "CAMUTANGA",
@@ -674,14 +674,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386703"
+    "data_processamento": "2026-06-08T12:27:59.972570"
   },
   {
     "municipio": "CANHOTINHO",
-    "potencial_destinacao_valor": 217023.82,
+    "potencial_destinacao_valor": 217098.89,
     "potencial_destinacao_contribuintes": 395.0,
     "destinacoes_por_localidade_valor": 3055.65,
     "destinacoes_por_localidade_contribuintes": 8.0,
@@ -689,17 +689,17 @@
     "quantidade_doacoes_declaradas": 12.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 8644.0,
-    "quantidade_doacoes_pagas": 10.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 10234.84,
+    "quantidade_doacoes_pagas": 11.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386706"
+    "data_processamento": "2026-06-08T12:27:59.972572"
   },
   {
     "municipio": "CAPOEIRAS",
-    "potencial_destinacao_valor": 86196.63,
-    "potencial_destinacao_contribuintes": 249.0,
+    "potencial_destinacao_valor": 88112.72,
+    "potencial_destinacao_contribuintes": 250.0,
     "destinacoes_por_localidade_valor": 2523.62,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 0.0,
@@ -708,10 +708,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386708"
+    "data_processamento": "2026-06-08T12:27:59.972574"
   },
   {
     "municipio": "CARNAIBA",
@@ -725,32 +725,32 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 7038.32,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386709"
+    "data_processamento": "2026-06-08T12:27:59.972575"
   },
   {
     "municipio": "CARNAUBEIRA DA PENHA",
     "potencial_destinacao_valor": 87906.6,
-    "potencial_destinacao_contribuintes": 268.0,
+    "potencial_destinacao_contribuintes": 269.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
     "valor_destinado_fundo": 11737.92,
     "quantidade_doacoes_declaradas": 11.0,
     "percentual_crianca_adolescente": 29.3,
     "percentual_pessoa_idosa": 70.7,
-    "darfs_pagos_valor": 9163.58,
-    "quantidade_doacoes_pagas": 10.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 11737.92,
+    "quantidade_doacoes_pagas": 11.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386710"
+    "data_processamento": "2026-06-08T12:27:59.972576"
   },
   {
     "municipio": "CARPINA",
-    "potencial_destinacao_valor": 2363915.83,
-    "potencial_destinacao_contribuintes": 4335.0,
+    "potencial_destinacao_valor": 2365950.83,
+    "potencial_destinacao_contribuintes": 4338.0,
     "destinacoes_por_localidade_valor": 17263.09,
     "destinacoes_por_localidade_contribuintes": 23.0,
     "valor_destinado_fundo": 46095.63,
@@ -759,32 +759,32 @@
     "percentual_pessoa_idosa": 23.8,
     "darfs_pagos_valor": 44321.22,
     "quantidade_doacoes_pagas": 21.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386711"
+    "data_processamento": "2026-06-08T12:27:59.972577"
   },
   {
     "municipio": "CARUARU",
-    "potencial_destinacao_valor": 16058671.72,
-    "potencial_destinacao_contribuintes": 21919.0,
-    "destinacoes_por_localidade_valor": 834135.68,
-    "destinacoes_por_localidade_contribuintes": 675.0,
-    "valor_destinado_fundo": 1274962.61,
-    "quantidade_doacoes_declaradas": 1338.0,
+    "potencial_destinacao_valor": 16070676.5,
+    "potencial_destinacao_contribuintes": 21935.0,
+    "destinacoes_por_localidade_valor": 834089.07,
+    "destinacoes_por_localidade_contribuintes": 674.0,
+    "valor_destinado_fundo": 1274458.95,
+    "quantidade_doacoes_declaradas": 1334.0,
     "percentual_crianca_adolescente": 79.8,
     "percentual_pessoa_idosa": 20.2,
-    "darfs_pagos_valor": 1145321.43,
-    "quantidade_doacoes_pagas": 1169.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 1239459.39,
+    "quantidade_doacoes_pagas": 1276.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386712"
+    "data_processamento": "2026-06-08T12:27:59.972578"
   },
   {
     "municipio": "CASINHAS",
-    "potencial_destinacao_valor": 31893.72,
-    "potencial_destinacao_contribuintes": 167.0,
+    "potencial_destinacao_valor": 32172.0,
+    "potencial_destinacao_contribuintes": 168.0,
     "destinacoes_por_localidade_valor": 968.08,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 5706.83,
@@ -793,15 +793,15 @@
     "percentual_pessoa_idosa": 41.6,
     "darfs_pagos_valor": 4706.83,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386713"
+    "data_processamento": "2026-06-08T12:27:59.972579"
   },
   {
     "municipio": "CATENDE",
-    "potencial_destinacao_valor": 466065.71,
-    "potencial_destinacao_contribuintes": 770.0,
+    "potencial_destinacao_valor": 465870.77,
+    "potencial_destinacao_contribuintes": 769.0,
     "destinacoes_por_localidade_valor": 3921.6,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 2126.96,
@@ -810,10 +810,10 @@
     "percentual_pessoa_idosa": 39.6,
     "darfs_pagos_valor": 2126.96,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386714"
+    "data_processamento": "2026-06-08T12:27:59.972579"
   },
   {
     "municipio": "CEDRO",
@@ -827,15 +827,15 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 1616.06,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386715"
+    "data_processamento": "2026-06-08T12:27:59.972580"
   },
   {
     "municipio": "CHA DE ALEGRIA",
-    "potencial_destinacao_valor": 93988.16,
-    "potencial_destinacao_contribuintes": 295.0,
+    "potencial_destinacao_valor": 93995.77,
+    "potencial_destinacao_contribuintes": 296.0,
     "destinacoes_por_localidade_valor": 1146.47,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 0.0,
@@ -844,32 +844,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386716"
+    "data_processamento": "2026-06-08T12:27:59.972581"
   },
   {
     "municipio": "CHA GRANDE",
-    "potencial_destinacao_valor": 246135.63,
-    "potencial_destinacao_contribuintes": 436.0,
+    "potencial_destinacao_valor": 247301.54,
+    "potencial_destinacao_contribuintes": 437.0,
     "destinacoes_por_localidade_valor": 2084.45,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 13828.51,
     "quantidade_doacoes_declaradas": 13.0,
     "percentual_crianca_adolescente": 31.6,
     "percentual_pessoa_idosa": 68.4,
-    "darfs_pagos_valor": 11784.85,
-    "quantidade_doacoes_pagas": 10.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 13672.83,
+    "quantidade_doacoes_pagas": 12.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386720"
+    "data_processamento": "2026-06-08T12:27:59.972584"
   },
   {
     "municipio": "CONDADO",
     "potencial_destinacao_valor": 374867.45,
-    "potencial_destinacao_contribuintes": 917.0,
+    "potencial_destinacao_contribuintes": 918.0,
     "destinacoes_por_localidade_valor": 9652.55,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 0.0,
@@ -878,10 +878,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386721"
+    "data_processamento": "2026-06-08T12:27:59.972585"
   },
   {
     "municipio": "CORRENTES",
@@ -895,14 +895,14 @@
     "percentual_pessoa_idosa": 95.6,
     "darfs_pagos_valor": 4080.11,
     "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386722"
+    "data_processamento": "2026-06-08T12:27:59.972586"
   },
   {
     "municipio": "CORTES",
-    "potencial_destinacao_valor": 68093.69,
+    "potencial_destinacao_valor": 68745.16,
     "potencial_destinacao_contribuintes": 225.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
@@ -912,32 +912,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386723"
+    "data_processamento": "2026-06-08T12:27:59.972587"
   },
   {
     "municipio": "CUMARU",
-    "potencial_destinacao_valor": 152355.45,
+    "potencial_destinacao_valor": 152453.07,
     "potencial_destinacao_contribuintes": 260.0,
-    "destinacoes_por_localidade_valor": 4295.6,
-    "destinacoes_por_localidade_contribuintes": 6.0,
+    "destinacoes_por_localidade_valor": 4095.6,
+    "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 10543.99,
     "quantidade_doacoes_declaradas": 8.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 9296.6,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386724"
+    "data_processamento": "2026-06-08T12:27:59.972588"
   },
   {
     "municipio": "CUPIRA",
-    "potencial_destinacao_valor": 275598.78,
-    "potencial_destinacao_contribuintes": 545.0,
+    "potencial_destinacao_valor": 275652.6,
+    "potencial_destinacao_contribuintes": 546.0,
     "destinacoes_por_localidade_valor": 4824.7,
     "destinacoes_por_localidade_contribuintes": 6.0,
     "valor_destinado_fundo": 0.0,
@@ -946,15 +946,15 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386725"
+    "data_processamento": "2026-06-08T12:27:59.972589"
   },
   {
     "municipio": "CUSTODIA",
-    "potencial_destinacao_valor": 556422.92,
-    "potencial_destinacao_contribuintes": 979.0,
+    "potencial_destinacao_valor": 556973.27,
+    "potencial_destinacao_contribuintes": 980.0,
     "destinacoes_por_localidade_valor": 6021.36,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 9845.01,
@@ -963,15 +963,15 @@
     "percentual_pessoa_idosa": 47.8,
     "darfs_pagos_valor": 9845.01,
     "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386726"
+    "data_processamento": "2026-06-08T12:27:59.972590"
   },
   {
     "municipio": "DORMENTES",
     "potencial_destinacao_valor": 141321.02,
-    "potencial_destinacao_contribuintes": 415.0,
+    "potencial_destinacao_contribuintes": 416.0,
     "destinacoes_por_localidade_valor": 14565.94,
     "destinacoes_por_localidade_contribuintes": 13.0,
     "valor_destinado_fundo": 6006.11,
@@ -980,27 +980,27 @@
     "percentual_pessoa_idosa": 45.2,
     "darfs_pagos_valor": 6006.11,
     "quantidade_doacoes_pagas": 13.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386727"
+    "data_processamento": "2026-06-08T12:27:59.972591"
   },
   {
     "municipio": "ESCADA",
-    "potencial_destinacao_valor": 868858.44,
-    "potencial_destinacao_contribuintes": 2360.0,
+    "potencial_destinacao_valor": 869167.26,
+    "potencial_destinacao_contribuintes": 2361.0,
     "destinacoes_por_localidade_valor": 135.24,
     "destinacoes_por_localidade_contribuintes": 1.0,
     "valor_destinado_fundo": 3175.45,
     "quantidade_doacoes_declaradas": 5.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 2836.92,
-    "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 4156.3,
+    "quantidade_doacoes_pagas": 5.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386728"
+    "data_processamento": "2026-06-08T12:27:59.972592"
   },
   {
     "municipio": "ESTADUAL",
@@ -1008,20 +1008,20 @@
     "potencial_destinacao_contribuintes": 0.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
-    "valor_destinado_fundo": 1369142.62,
-    "quantidade_doacoes_declaradas": 1378.0,
+    "valor_destinado_fundo": 1362741.75,
+    "quantidade_doacoes_declaradas": 1371.0,
     "percentual_crianca_adolescente": 56.8,
     "percentual_pessoa_idosa": 43.2,
-    "darfs_pagos_valor": 1173456.87,
-    "quantidade_doacoes_pagas": 1106.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 1241407.87,
+    "quantidade_doacoes_pagas": 1172.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386729"
+    "data_processamento": "2026-06-08T12:27:59.972593"
   },
   {
     "municipio": "EXU",
-    "potencial_destinacao_valor": 286436.54,
+    "potencial_destinacao_valor": 286518.96,
     "potencial_destinacao_contribuintes": 612.0,
     "destinacoes_por_localidade_valor": 3430.22,
     "destinacoes_por_localidade_contribuintes": 4.0,
@@ -1031,10 +1031,10 @@
     "percentual_pessoa_idosa": 63.9,
     "darfs_pagos_valor": 9609.01,
     "quantidade_doacoes_pagas": 14.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386731"
+    "data_processamento": "2026-06-08T12:27:59.972594"
   },
   {
     "municipio": "FEIRA NOVA",
@@ -1046,17 +1046,17 @@
     "quantidade_doacoes_declaradas": 4.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 2220.84,
-    "quantidade_doacoes_pagas": 3.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 3220.84,
+    "quantidade_doacoes_pagas": 4.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386734"
+    "data_processamento": "2026-06-08T12:27:59.972597"
   },
   {
     "municipio": "FERNANDO DE NORONHA",
     "potencial_destinacao_valor": 80208.5,
-    "potencial_destinacao_contribuintes": 288.0,
+    "potencial_destinacao_contribuintes": 289.0,
     "destinacoes_por_localidade_valor": 1526.37,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 0.0,
@@ -1065,14 +1065,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386735"
+    "data_processamento": "2026-06-08T12:27:59.972598"
   },
   {
     "municipio": "FERREIROS",
-    "potencial_destinacao_valor": 106678.33,
+    "potencial_destinacao_valor": 106713.49,
     "potencial_destinacao_contribuintes": 287.0,
     "destinacoes_por_localidade_valor": 4135.4,
     "destinacoes_por_localidade_contribuintes": 6.0,
@@ -1082,14 +1082,14 @@
     "percentual_pessoa_idosa": 45.8,
     "darfs_pagos_valor": 1924.76,
     "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386736"
+    "data_processamento": "2026-06-08T12:27:59.972599"
   },
   {
     "municipio": "FLORES",
-    "potencial_destinacao_valor": 146739.05,
+    "potencial_destinacao_valor": 147558.35,
     "potencial_destinacao_contribuintes": 386.0,
     "destinacoes_por_localidade_valor": 1583.24,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -1099,27 +1099,27 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386738"
+    "data_processamento": "2026-06-08T12:27:59.972600"
   },
   {
     "municipio": "FLORESTA",
-    "potencial_destinacao_valor": 693264.86,
-    "potencial_destinacao_contribuintes": 995.0,
+    "potencial_destinacao_valor": 695302.67,
+    "potencial_destinacao_contribuintes": 996.0,
     "destinacoes_por_localidade_valor": 14238.74,
     "destinacoes_por_localidade_contribuintes": 11.0,
     "valor_destinado_fundo": 19358.61,
     "quantidade_doacoes_declaradas": 22.0,
     "percentual_crianca_adolescente": 64.9,
     "percentual_pessoa_idosa": 35.1,
-    "darfs_pagos_valor": 18278.61,
-    "quantidade_doacoes_pagas": 21.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 19358.61,
+    "quantidade_doacoes_pagas": 22.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386739"
+    "data_processamento": "2026-06-08T12:27:59.972601"
   },
   {
     "municipio": "FREI MIGUELINHO",
@@ -1133,15 +1133,15 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 724.22,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386740"
+    "data_processamento": "2026-06-08T12:27:59.972602"
   },
   {
     "municipio": "GAMELEIRA",
     "potencial_destinacao_valor": 146545.75,
-    "potencial_destinacao_contribuintes": 415.0,
+    "potencial_destinacao_contribuintes": 416.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
     "valor_destinado_fundo": 122.37,
@@ -1150,27 +1150,27 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 122.37,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386741"
+    "data_processamento": "2026-06-08T12:27:59.972603"
   },
   {
     "municipio": "GARANHUNS",
-    "potencial_destinacao_valor": 6685888.59,
-    "potencial_destinacao_contribuintes": 8715.0,
+    "potencial_destinacao_valor": 6693007.9,
+    "potencial_destinacao_contribuintes": 8723.0,
     "destinacoes_por_localidade_valor": 160334.82,
     "destinacoes_por_localidade_contribuintes": 130.0,
     "valor_destinado_fundo": 125292.08,
     "quantidade_doacoes_declaradas": 133.0,
     "percentual_crianca_adolescente": 45.7,
     "percentual_pessoa_idosa": 54.3,
-    "darfs_pagos_valor": 110873.75,
-    "quantidade_doacoes_pagas": 120.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 126980.02,
+    "quantidade_doacoes_pagas": 129.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386742"
+    "data_processamento": "2026-06-08T12:27:59.972604"
   },
   {
     "municipio": "GLORIA DO GOITA",
@@ -1178,21 +1178,21 @@
     "potencial_destinacao_contribuintes": 592.0,
     "destinacoes_por_localidade_valor": 4994.16,
     "destinacoes_por_localidade_contribuintes": 10.0,
-    "valor_destinado_fundo": 18724.13,
+    "valor_destinado_fundo": 18710.93,
     "quantidade_doacoes_declaradas": 41.0,
-    "percentual_crianca_adolescente": 63.2,
-    "percentual_pessoa_idosa": 36.8,
-    "darfs_pagos_valor": 16070.46,
-    "quantidade_doacoes_pagas": 33.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "percentual_crianca_adolescente": 63.3,
+    "percentual_pessoa_idosa": 36.7,
+    "darfs_pagos_valor": 18063.68,
+    "quantidade_doacoes_pagas": 37.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386744"
+    "data_processamento": "2026-06-08T12:27:59.972605"
   },
   {
     "municipio": "GOIANA",
-    "potencial_destinacao_valor": 1704189.91,
-    "potencial_destinacao_contribuintes": 3989.0,
+    "potencial_destinacao_valor": 1704469.32,
+    "potencial_destinacao_contribuintes": 3998.0,
     "destinacoes_por_localidade_valor": 6261.29,
     "destinacoes_por_localidade_contribuintes": 9.0,
     "valor_destinado_fundo": 9152.55,
@@ -1201,10 +1201,10 @@
     "percentual_pessoa_idosa": 57.6,
     "darfs_pagos_valor": 9092.26,
     "quantidade_doacoes_pagas": 16.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386746"
+    "data_processamento": "2026-06-08T12:27:59.972608"
   },
   {
     "municipio": "GRANITO",
@@ -1218,32 +1218,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386747"
+    "data_processamento": "2026-06-08T12:27:59.972609"
   },
   {
     "municipio": "GRAVATA",
-    "potencial_destinacao_valor": 2412614.02,
-    "potencial_destinacao_contribuintes": 3116.0,
+    "potencial_destinacao_valor": 2413847.43,
+    "potencial_destinacao_contribuintes": 3118.0,
     "destinacoes_por_localidade_valor": 66963.72,
     "destinacoes_por_localidade_contribuintes": 74.0,
     "valor_destinado_fundo": 281181.58,
     "quantidade_doacoes_declaradas": 272.0,
     "percentual_crianca_adolescente": 38.1,
     "percentual_pessoa_idosa": 61.9,
-    "darfs_pagos_valor": 259951.19,
-    "quantidade_doacoes_pagas": 250.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 269677.36,
+    "quantidade_doacoes_pagas": 262.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386749"
+    "data_processamento": "2026-06-08T12:27:59.972610"
   },
   {
     "municipio": "IATI",
-    "potencial_destinacao_valor": 174571.58,
-    "potencial_destinacao_contribuintes": 292.0,
+    "potencial_destinacao_valor": 176676.76,
+    "potencial_destinacao_contribuintes": 295.0,
     "destinacoes_por_localidade_valor": 1053.62,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 2363.03,
@@ -1252,14 +1252,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 2310.04,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386750"
+    "data_processamento": "2026-06-08T12:27:59.972611"
   },
   {
     "municipio": "IBIMIRIM",
-    "potencial_destinacao_valor": 215782.82,
+    "potencial_destinacao_valor": 215783.98,
     "potencial_destinacao_contribuintes": 385.0,
     "destinacoes_por_localidade_valor": 6803.16,
     "destinacoes_por_localidade_contribuintes": 8.0,
@@ -1267,12 +1267,12 @@
     "quantidade_doacoes_declaradas": 28.0,
     "percentual_crianca_adolescente": 55.5,
     "percentual_pessoa_idosa": 44.5,
-    "darfs_pagos_valor": 21516.98,
-    "quantidade_doacoes_pagas": 22.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 23448.86,
+    "quantidade_doacoes_pagas": 24.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386751"
+    "data_processamento": "2026-06-08T12:27:59.972612"
   },
   {
     "municipio": "IBIRAJUBA",
@@ -1286,31 +1286,31 @@
     "percentual_pessoa_idosa": 51.6,
     "darfs_pagos_valor": 940.23,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386752"
+    "data_processamento": "2026-06-08T12:27:59.972613"
   },
   {
     "municipio": "IGARASSU",
-    "potencial_destinacao_valor": 2015126.92,
-    "potencial_destinacao_contribuintes": 5503.0,
+    "potencial_destinacao_valor": 2017625.01,
+    "potencial_destinacao_contribuintes": 5513.0,
     "destinacoes_por_localidade_valor": 17814.41,
     "destinacoes_por_localidade_contribuintes": 19.0,
     "valor_destinado_fundo": 48304.04,
     "quantidade_doacoes_declaradas": 31.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 30869.68,
-    "quantidade_doacoes_pagas": 24.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 40858.98,
+    "quantidade_doacoes_pagas": 25.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386753"
+    "data_processamento": "2026-06-08T12:27:59.972614"
   },
   {
     "municipio": "IGUARACI",
-    "potencial_destinacao_valor": 77085.63,
+    "potencial_destinacao_valor": 77101.27,
     "potencial_destinacao_contribuintes": 190.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
@@ -1320,10 +1320,10 @@
     "percentual_pessoa_idosa": 84.6,
     "darfs_pagos_valor": 6323.8,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386754"
+    "data_processamento": "2026-06-08T12:27:59.972615"
   },
   {
     "municipio": "ILHA DE ITAMARACA",
@@ -1335,12 +1335,12 @@
     "quantidade_doacoes_declaradas": 16.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 16274.73,
-    "quantidade_doacoes_pagas": 14.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 17577.11,
+    "quantidade_doacoes_pagas": 15.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386756"
+    "data_processamento": "2026-06-08T12:27:59.972616"
   },
   {
     "municipio": "INAJA",
@@ -1354,10 +1354,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 9977.13,
     "quantidade_doacoes_pagas": 3.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386757"
+    "data_processamento": "2026-06-08T12:27:59.972617"
   },
   {
     "municipio": "INGAZEIRA",
@@ -1371,32 +1371,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386759"
+    "data_processamento": "2026-06-08T12:27:59.972621"
   },
   {
     "municipio": "IPOJUCA",
-    "potencial_destinacao_valor": 1733729.63,
-    "potencial_destinacao_contribuintes": 3303.0,
+    "potencial_destinacao_valor": 1733922.66,
+    "potencial_destinacao_contribuintes": 3306.0,
     "destinacoes_por_localidade_valor": 2309.44,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 66154.14,
     "quantidade_doacoes_declaradas": 29.0,
     "percentual_crianca_adolescente": 77.1,
     "percentual_pessoa_idosa": 22.9,
-    "darfs_pagos_valor": 28357.99,
-    "quantidade_doacoes_pagas": 23.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 65294.02,
+    "quantidade_doacoes_pagas": 28.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386760"
+    "data_processamento": "2026-06-08T12:27:59.972622"
   },
   {
     "municipio": "IPUBI",
-    "potencial_destinacao_valor": 229177.08,
-    "potencial_destinacao_contribuintes": 531.0,
+    "potencial_destinacao_valor": 229366.95,
+    "potencial_destinacao_contribuintes": 533.0,
     "destinacoes_por_localidade_valor": 2014.63,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 0.0,
@@ -1405,10 +1405,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386761"
+    "data_processamento": "2026-06-08T12:27:59.972624"
   },
   {
     "municipio": "ITACURUBA",
@@ -1422,10 +1422,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386762"
+    "data_processamento": "2026-06-08T12:27:59.972625"
   },
   {
     "municipio": "ITAIBA",
@@ -1437,17 +1437,17 @@
     "quantidade_doacoes_declaradas": 7.0,
     "percentual_crianca_adolescente": 58.9,
     "percentual_pessoa_idosa": 41.1,
-    "darfs_pagos_valor": 10537.02,
-    "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 11826.95,
+    "quantidade_doacoes_pagas": 6.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386763"
+    "data_processamento": "2026-06-08T12:27:59.972626"
   },
   {
     "municipio": "ITAMBE",
-    "potencial_destinacao_valor": 337266.78,
-    "potencial_destinacao_contribuintes": 690.0,
+    "potencial_destinacao_valor": 338168.71,
+    "potencial_destinacao_contribuintes": 691.0,
     "destinacoes_por_localidade_valor": 10571.2,
     "destinacoes_por_localidade_contribuintes": 8.0,
     "valor_destinado_fundo": 0.0,
@@ -1456,10 +1456,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386766"
+    "data_processamento": "2026-06-08T12:27:59.972627"
   },
   {
     "municipio": "ITAPETIM",
@@ -1473,32 +1473,32 @@
     "percentual_pessoa_idosa": 98.2,
     "darfs_pagos_valor": 567.76,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386767"
+    "data_processamento": "2026-06-08T12:27:59.972628"
   },
   {
     "municipio": "ITAPISSUMA",
-    "potencial_destinacao_valor": 249205.16,
-    "potencial_destinacao_contribuintes": 825.0,
+    "potencial_destinacao_valor": 249285.05,
+    "potencial_destinacao_contribuintes": 827.0,
     "destinacoes_por_localidade_valor": 1411.3,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 4900.82,
     "quantidade_doacoes_declaradas": 13.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 100.0,
-    "darfs_pagos_valor": 3356.38,
-    "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 4268.13,
+    "quantidade_doacoes_pagas": 9.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386768"
+    "data_processamento": "2026-06-08T12:27:59.972629"
   },
   {
     "municipio": "ITAQUITINGA",
     "potencial_destinacao_valor": 137243.1,
-    "potencial_destinacao_contribuintes": 391.0,
+    "potencial_destinacao_contribuintes": 390.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
     "valor_destinado_fundo": 0.0,
@@ -1507,27 +1507,27 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386769"
+    "data_processamento": "2026-06-08T12:27:59.972630"
   },
   {
     "municipio": "JABOATAO DOS GUARARAPES",
-    "potencial_destinacao_valor": 29117075.26,
-    "potencial_destinacao_contribuintes": 46568.0,
+    "potencial_destinacao_valor": 29139625.05,
+    "potencial_destinacao_contribuintes": 46622.0,
     "destinacoes_por_localidade_valor": 465761.75,
     "destinacoes_por_localidade_contribuintes": 351.0,
-    "valor_destinado_fundo": 165983.79,
-    "quantidade_doacoes_declaradas": 200.0,
+    "valor_destinado_fundo": 164648.54,
+    "quantidade_doacoes_declaradas": 198.0,
     "percentual_crianca_adolescente": 44.9,
     "percentual_pessoa_idosa": 55.1,
-    "darfs_pagos_valor": 136958.3,
-    "quantidade_doacoes_pagas": 159.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 153275.1,
+    "quantidade_doacoes_pagas": 169.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386770"
+    "data_processamento": "2026-06-08T12:27:59.972631"
   },
   {
     "municipio": "JAQUEIRA",
@@ -1541,15 +1541,15 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386773"
+    "data_processamento": "2026-06-08T12:27:59.972635"
   },
   {
     "municipio": "JATAUBA",
     "potencial_destinacao_valor": 82427.41,
-    "potencial_destinacao_contribuintes": 223.0,
+    "potencial_destinacao_contribuintes": 224.0,
     "destinacoes_por_localidade_valor": 2978.82,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 3915.49,
@@ -1558,14 +1558,14 @@
     "percentual_pessoa_idosa": 70.2,
     "darfs_pagos_valor": 3670.37,
     "quantidade_doacoes_pagas": 8.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386774"
+    "data_processamento": "2026-06-08T12:27:59.972636"
   },
   {
     "municipio": "JATOBA",
-    "potencial_destinacao_valor": 162812.0,
+    "potencial_destinacao_valor": 162789.29,
     "potencial_destinacao_contribuintes": 504.0,
     "destinacoes_por_localidade_valor": 6071.73,
     "destinacoes_por_localidade_contribuintes": 3.0,
@@ -1575,10 +1575,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386775"
+    "data_processamento": "2026-06-08T12:27:59.972637"
   },
   {
     "municipio": "JOAO ALFREDO",
@@ -1592,10 +1592,10 @@
     "percentual_pessoa_idosa": 47.8,
     "darfs_pagos_valor": 546.41,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386777"
+    "data_processamento": "2026-06-08T12:27:59.972639"
   },
   {
     "municipio": "JOAQUIM NABUCO",
@@ -1609,14 +1609,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 838.76,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386778"
+    "data_processamento": "2026-06-08T12:27:59.972640"
   },
   {
     "municipio": "JUCATI",
-    "potencial_destinacao_valor": 38517.54,
+    "potencial_destinacao_valor": 38592.62,
     "potencial_destinacao_contribuintes": 107.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
@@ -1626,10 +1626,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386779"
+    "data_processamento": "2026-06-08T12:27:59.972641"
   },
   {
     "municipio": "JUPI",
@@ -1643,10 +1643,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 265.7,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386782"
+    "data_processamento": "2026-06-08T12:27:59.972641"
   },
   {
     "municipio": "JUREMA",
@@ -1660,10 +1660,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 8494.87,
     "quantidade_doacoes_pagas": 8.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386783"
+    "data_processamento": "2026-06-08T12:27:59.972642"
   },
   {
     "municipio": "LAGOA DO CARRO",
@@ -1677,10 +1677,10 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 631.88,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386785"
+    "data_processamento": "2026-06-08T12:27:59.972643"
   },
   {
     "municipio": "LAGOA DO ITAENGA",
@@ -1694,14 +1694,14 @@
     "percentual_pessoa_idosa": 58.0,
     "darfs_pagos_valor": 9224.06,
     "quantidade_doacoes_pagas": 17.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386786"
+    "data_processamento": "2026-06-08T12:27:59.972644"
   },
   {
     "municipio": "LAGOA DO OURO",
-    "potencial_destinacao_valor": 66650.0,
+    "potencial_destinacao_valor": 66676.38,
     "potencial_destinacao_contribuintes": 237.0,
     "destinacoes_por_localidade_valor": 388.88,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -1711,10 +1711,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386787"
+    "data_processamento": "2026-06-08T12:27:59.972645"
   },
   {
     "municipio": "LAGOA DOS GATOS",
@@ -1728,15 +1728,15 @@
     "percentual_pessoa_idosa": 22.9,
     "darfs_pagos_valor": 5221.22,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386790"
+    "data_processamento": "2026-06-08T12:27:59.972648"
   },
   {
     "municipio": "LAGOA GRANDE",
-    "potencial_destinacao_valor": 213776.67,
-    "potencial_destinacao_contribuintes": 491.0,
+    "potencial_destinacao_valor": 213886.32,
+    "potencial_destinacao_contribuintes": 493.0,
     "destinacoes_por_localidade_valor": 6840.54,
     "destinacoes_por_localidade_contribuintes": 9.0,
     "valor_destinado_fundo": 3781.7,
@@ -1745,15 +1745,15 @@
     "percentual_pessoa_idosa": 29.1,
     "darfs_pagos_valor": 3213.4,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386791"
+    "data_processamento": "2026-06-08T12:27:59.972649"
   },
   {
     "municipio": "LAJEDO",
-    "potencial_destinacao_valor": 411523.14,
-    "potencial_destinacao_contribuintes": 855.0,
+    "potencial_destinacao_valor": 411698.46,
+    "potencial_destinacao_contribuintes": 857.0,
     "destinacoes_por_localidade_valor": 30545.54,
     "destinacoes_por_localidade_contribuintes": 22.0,
     "valor_destinado_fundo": 7841.9,
@@ -1762,27 +1762,27 @@
     "percentual_pessoa_idosa": 71.8,
     "darfs_pagos_valor": 6661.31,
     "quantidade_doacoes_pagas": 14.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386792"
+    "data_processamento": "2026-06-08T12:27:59.972650"
   },
   {
     "municipio": "LIMOEIRO",
-    "potencial_destinacao_valor": 1363499.18,
-    "potencial_destinacao_contribuintes": 2218.0,
+    "potencial_destinacao_valor": 1365416.18,
+    "potencial_destinacao_contribuintes": 2219.0,
     "destinacoes_por_localidade_valor": 43595.91,
     "destinacoes_por_localidade_contribuintes": 48.0,
-    "valor_destinado_fundo": 106784.11,
-    "quantidade_doacoes_declaradas": 119.0,
-    "percentual_crianca_adolescente": 67.4,
-    "percentual_pessoa_idosa": 32.6,
-    "darfs_pagos_valor": 101460.13,
-    "quantidade_doacoes_pagas": 110.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "valor_destinado_fundo": 106584.11,
+    "quantidade_doacoes_declaradas": 118.0,
+    "percentual_crianca_adolescente": 67.3,
+    "percentual_pessoa_idosa": 32.7,
+    "darfs_pagos_valor": 102280.94,
+    "quantidade_doacoes_pagas": 112.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386793"
+    "data_processamento": "2026-06-08T12:27:59.972651"
   },
   {
     "municipio": "MACAPARANA",
@@ -1796,10 +1796,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386794"
+    "data_processamento": "2026-06-08T12:27:59.972652"
   },
   {
     "municipio": "MACHADOS",
@@ -1813,10 +1813,10 @@
     "percentual_pessoa_idosa": 68.8,
     "darfs_pagos_valor": 1762.27,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386795"
+    "data_processamento": "2026-06-08T12:27:59.972653"
   },
   {
     "municipio": "MANARI",
@@ -1828,12 +1828,12 @@
     "quantidade_doacoes_declaradas": 19.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 14661.51,
-    "quantidade_doacoes_pagas": 15.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 16942.43,
+    "quantidade_doacoes_pagas": 17.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386796"
+    "data_processamento": "2026-06-08T12:27:59.972654"
   },
   {
     "municipio": "MARAIAL",
@@ -1847,10 +1847,10 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 462.0,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386797"
+    "data_processamento": "2026-06-08T12:27:59.972655"
   },
   {
     "municipio": "MIRANDIBA",
@@ -1864,10 +1864,10 @@
     "percentual_pessoa_idosa": 58.5,
     "darfs_pagos_valor": 6673.69,
     "quantidade_doacoes_pagas": 9.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386799"
+    "data_processamento": "2026-06-08T12:27:59.972656"
   },
   {
     "municipio": "MOREILANDIA",
@@ -1881,32 +1881,32 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 2429.99,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386802"
+    "data_processamento": "2026-06-08T12:27:59.972659"
   },
   {
     "municipio": "MORENO",
-    "potencial_destinacao_valor": 923865.93,
-    "potencial_destinacao_contribuintes": 2010.0,
-    "destinacoes_por_localidade_valor": 12456.43,
-    "destinacoes_por_localidade_contribuintes": 12.0,
-    "valor_destinado_fundo": 13519.16,
-    "quantidade_doacoes_declaradas": 23.0,
-    "percentual_crianca_adolescente": 58.4,
-    "percentual_pessoa_idosa": 41.6,
+    "potencial_destinacao_valor": 928842.95,
+    "potencial_destinacao_contribuintes": 2015.0,
+    "destinacoes_por_localidade_valor": 12323.83,
+    "destinacoes_por_localidade_contribuintes": 11.0,
+    "valor_destinado_fundo": 13386.55,
+    "quantidade_doacoes_declaradas": 21.0,
+    "percentual_crianca_adolescente": 58.5,
+    "percentual_pessoa_idosa": 41.5,
     "darfs_pagos_valor": 10120.07,
     "quantidade_doacoes_pagas": 13.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386803"
+    "data_processamento": "2026-06-08T12:27:59.972660"
   },
   {
     "municipio": "NAZARE DA MATA",
-    "potencial_destinacao_valor": 690055.9,
-    "potencial_destinacao_contribuintes": 1386.0,
+    "potencial_destinacao_valor": 693785.85,
+    "potencial_destinacao_contribuintes": 1390.0,
     "destinacoes_por_localidade_valor": 5979.78,
     "destinacoes_por_localidade_contribuintes": 4.0,
     "valor_destinado_fundo": 6444.72,
@@ -1915,27 +1915,27 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 6384.7,
     "quantidade_doacoes_pagas": 12.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386804"
+    "data_processamento": "2026-06-08T12:27:59.972661"
   },
   {
     "municipio": "OLINDA",
-    "potencial_destinacao_valor": 21057713.91,
-    "potencial_destinacao_contribuintes": 31874.0,
+    "potencial_destinacao_valor": 21078651.87,
+    "potencial_destinacao_contribuintes": 31902.0,
     "destinacoes_por_localidade_valor": 288048.71,
     "destinacoes_por_localidade_contribuintes": 246.0,
     "valor_destinado_fundo": 159814.82,
     "quantidade_doacoes_declaradas": 206.0,
     "percentual_crianca_adolescente": 47.8,
     "percentual_pessoa_idosa": 52.2,
-    "darfs_pagos_valor": 142341.86,
-    "quantidade_doacoes_pagas": 179.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 146345.73,
+    "quantidade_doacoes_pagas": 189.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386805"
+    "data_processamento": "2026-06-08T12:27:59.972662"
   },
   {
     "municipio": "OROBO",
@@ -1949,14 +1949,14 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 4545.83,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386806"
+    "data_processamento": "2026-06-08T12:27:59.972663"
   },
   {
     "municipio": "OROCO",
-    "potencial_destinacao_valor": 133075.33,
+    "potencial_destinacao_valor": 133064.79,
     "potencial_destinacao_contribuintes": 253.0,
     "destinacoes_por_localidade_valor": 10534.84,
     "destinacoes_por_localidade_contribuintes": 15.0,
@@ -1966,14 +1966,14 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 1929.61,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386807"
+    "data_processamento": "2026-06-08T12:27:59.972664"
   },
   {
     "municipio": "OURICURI",
-    "potencial_destinacao_valor": 789891.04,
+    "potencial_destinacao_valor": 790092.17,
     "potencial_destinacao_contribuintes": 1475.0,
     "destinacoes_por_localidade_valor": 10264.46,
     "destinacoes_por_localidade_contribuintes": 15.0,
@@ -1981,29 +1981,29 @@
     "quantidade_doacoes_declaradas": 14.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 100.0,
-    "darfs_pagos_valor": 8485.9,
-    "quantidade_doacoes_pagas": 12.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 12601.06,
+    "quantidade_doacoes_pagas": 14.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386808"
+    "data_processamento": "2026-06-08T12:27:59.972665"
   },
   {
     "municipio": "PALMARES",
-    "potencial_destinacao_valor": 1122052.12,
-    "potencial_destinacao_contribuintes": 2019.0,
+    "potencial_destinacao_valor": 1122485.14,
+    "potencial_destinacao_contribuintes": 2022.0,
     "destinacoes_por_localidade_valor": 49829.05,
     "destinacoes_por_localidade_contribuintes": 51.0,
     "valor_destinado_fundo": 137018.75,
     "quantidade_doacoes_declaradas": 163.0,
     "percentual_crianca_adolescente": 61.5,
     "percentual_pessoa_idosa": 38.5,
-    "darfs_pagos_valor": 126583.6,
-    "quantidade_doacoes_pagas": 140.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 132739.32,
+    "quantidade_doacoes_pagas": 149.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386809"
+    "data_processamento": "2026-06-08T12:27:59.972666"
   },
   {
     "municipio": "PALMEIRINA",
@@ -2017,14 +2017,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386810"
+    "data_processamento": "2026-06-08T12:27:59.972667"
   },
   {
     "municipio": "PANELAS",
-    "potencial_destinacao_valor": 186343.77,
+    "potencial_destinacao_valor": 186369.51,
     "potencial_destinacao_contribuintes": 394.0,
     "destinacoes_por_localidade_valor": 10949.62,
     "destinacoes_por_localidade_contribuintes": 15.0,
@@ -2034,10 +2034,10 @@
     "percentual_pessoa_idosa": 68.5,
     "darfs_pagos_valor": 6740.74,
     "quantidade_doacoes_pagas": 11.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386811"
+    "data_processamento": "2026-06-08T12:27:59.972668"
   },
   {
     "municipio": "PARANATAMA",
@@ -2051,15 +2051,15 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 439.3,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386814"
+    "data_processamento": "2026-06-08T12:27:59.972670"
   },
   {
     "municipio": "PARNAMIRIM",
     "potencial_destinacao_valor": 200533.54,
-    "potencial_destinacao_contribuintes": 525.0,
+    "potencial_destinacao_contribuintes": 526.0,
     "destinacoes_por_localidade_valor": 1330.6,
     "destinacoes_por_localidade_contribuintes": 1.0,
     "valor_destinado_fundo": 3283.46,
@@ -2068,15 +2068,15 @@
     "percentual_pessoa_idosa": 37.5,
     "darfs_pagos_valor": 3283.46,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386815"
+    "data_processamento": "2026-06-08T12:27:59.972671"
   },
   {
     "municipio": "PASSIRA",
     "potencial_destinacao_valor": 269943.26,
-    "potencial_destinacao_contribuintes": 537.0,
+    "potencial_destinacao_contribuintes": 538.0,
     "destinacoes_por_localidade_valor": 9836.19,
     "destinacoes_por_localidade_contribuintes": 8.0,
     "valor_destinado_fundo": 8046.55,
@@ -2085,15 +2085,15 @@
     "percentual_pessoa_idosa": 48.0,
     "darfs_pagos_valor": 8046.55,
     "quantidade_doacoes_pagas": 12.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386817"
+    "data_processamento": "2026-06-08T12:27:59.972672"
   },
   {
     "municipio": "PAUDALHO",
-    "potencial_destinacao_valor": 1344799.4,
-    "potencial_destinacao_contribuintes": 1901.0,
+    "potencial_destinacao_valor": 1350037.85,
+    "potencial_destinacao_contribuintes": 1905.0,
     "destinacoes_por_localidade_valor": 32338.24,
     "destinacoes_por_localidade_contribuintes": 23.0,
     "valor_destinado_fundo": 19037.24,
@@ -2102,27 +2102,27 @@
     "percentual_pessoa_idosa": 44.2,
     "darfs_pagos_valor": 19389.95,
     "quantidade_doacoes_pagas": 19.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386818"
+    "data_processamento": "2026-06-08T12:27:59.972673"
   },
   {
     "municipio": "PAULISTA",
-    "potencial_destinacao_valor": 13797118.16,
-    "potencial_destinacao_contribuintes": 27740.0,
-    "destinacoes_por_localidade_valor": 127812.5,
-    "destinacoes_por_localidade_contribuintes": 156.0,
+    "potencial_destinacao_valor": 13804229.07,
+    "potencial_destinacao_contribuintes": 27758.0,
+    "destinacoes_por_localidade_valor": 127330.53,
+    "destinacoes_por_localidade_contribuintes": 155.0,
     "valor_destinado_fundo": 576534.38,
     "quantidade_doacoes_declaradas": 462.0,
     "percentual_crianca_adolescente": 91.1,
     "percentual_pessoa_idosa": 8.9,
-    "darfs_pagos_valor": 521215.08,
-    "quantidade_doacoes_pagas": 415.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 571342.68,
+    "quantidade_doacoes_pagas": 447.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386819"
+    "data_processamento": "2026-06-08T12:27:59.972674"
   },
   {
     "municipio": "PEDRA",
@@ -2130,38 +2130,38 @@
     "potencial_destinacao_contribuintes": 369.0,
     "destinacoes_por_localidade_valor": 14510.88,
     "destinacoes_por_localidade_contribuintes": 11.0,
-    "valor_destinado_fundo": 11303.13,
-    "quantidade_doacoes_declaradas": 12.0,
-    "percentual_crianca_adolescente": 40.7,
-    "percentual_pessoa_idosa": 59.3,
+    "valor_destinado_fundo": 11253.13,
+    "quantidade_doacoes_declaradas": 11.0,
+    "percentual_crianca_adolescente": 40.4,
+    "percentual_pessoa_idosa": 59.6,
     "darfs_pagos_valor": 10005.01,
     "quantidade_doacoes_pagas": 8.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386820"
+    "data_processamento": "2026-06-08T12:27:59.972675"
   },
   {
     "municipio": "PESQUEIRA",
-    "potencial_destinacao_valor": 1100065.25,
-    "potencial_destinacao_contribuintes": 1857.0,
+    "potencial_destinacao_valor": 1100254.31,
+    "potencial_destinacao_contribuintes": 1858.0,
     "destinacoes_por_localidade_valor": 64087.25,
     "destinacoes_por_localidade_contribuintes": 65.0,
     "valor_destinado_fundo": 108787.39,
     "quantidade_doacoes_declaradas": 132.0,
     "percentual_crianca_adolescente": 75.2,
     "percentual_pessoa_idosa": 24.8,
-    "darfs_pagos_valor": 92187.42,
-    "quantidade_doacoes_pagas": 110.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 99332.02,
+    "quantidade_doacoes_pagas": 117.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386821"
+    "data_processamento": "2026-06-08T12:27:59.972676"
   },
   {
     "municipio": "PETROLANDIA",
-    "potencial_destinacao_valor": 430161.95,
-    "potencial_destinacao_contribuintes": 1017.0,
+    "potencial_destinacao_valor": 430368.76,
+    "potencial_destinacao_contribuintes": 1018.0,
     "destinacoes_por_localidade_valor": 5176.91,
     "destinacoes_por_localidade_contribuintes": 6.0,
     "valor_destinado_fundo": 2365.42,
@@ -2170,27 +2170,27 @@
     "percentual_pessoa_idosa": 23.6,
     "darfs_pagos_valor": 2365.42,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386822"
+    "data_processamento": "2026-06-08T12:27:59.972677"
   },
   {
     "municipio": "PETROLINA",
-    "potencial_destinacao_valor": 23029922.66,
-    "potencial_destinacao_contribuintes": 27027.0,
-    "destinacoes_por_localidade_valor": 1221542.17,
-    "destinacoes_por_localidade_contribuintes": 611.0,
-    "valor_destinado_fundo": 1151303.4,
-    "quantidade_doacoes_declaradas": 869.0,
+    "potencial_destinacao_valor": 23047037.67,
+    "potencial_destinacao_contribuintes": 27049.0,
+    "destinacoes_por_localidade_valor": 1219927.38,
+    "destinacoes_por_localidade_contribuintes": 610.0,
+    "valor_destinado_fundo": 1148714.31,
+    "quantidade_doacoes_declaradas": 866.0,
     "percentual_crianca_adolescente": 74.6,
     "percentual_pessoa_idosa": 25.4,
-    "darfs_pagos_valor": 996882.09,
-    "quantidade_doacoes_pagas": 730.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 1096086.45,
+    "quantidade_doacoes_pagas": 792.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386823"
+    "data_processamento": "2026-06-08T12:27:59.972678"
   },
   {
     "municipio": "POCAO",
@@ -2204,14 +2204,14 @@
     "percentual_pessoa_idosa": 51.2,
     "darfs_pagos_valor": 4000.0,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386824"
+    "data_processamento": "2026-06-08T12:27:59.972679"
   },
   {
     "municipio": "POMBOS",
-    "potencial_destinacao_valor": 251986.25,
+    "potencial_destinacao_valor": 252011.23,
     "potencial_destinacao_contribuintes": 628.0,
     "destinacoes_por_localidade_valor": 4427.45,
     "destinacoes_por_localidade_contribuintes": 7.0,
@@ -2221,10 +2221,10 @@
     "percentual_pessoa_idosa": 46.2,
     "darfs_pagos_valor": 2426.32,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386827"
+    "data_processamento": "2026-06-08T12:27:59.972682"
   },
   {
     "municipio": "PRIMAVERA",
@@ -2238,10 +2238,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386828"
+    "data_processamento": "2026-06-08T12:27:59.972683"
   },
   {
     "municipio": "QUIPAPA",
@@ -2253,12 +2253,12 @@
     "quantidade_doacoes_declaradas": 16.0,
     "percentual_crianca_adolescente": 49.1,
     "percentual_pessoa_idosa": 50.9,
-    "darfs_pagos_valor": 15914.52,
-    "quantidade_doacoes_pagas": 14.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 17100.11,
+    "quantidade_doacoes_pagas": 16.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386829"
+    "data_processamento": "2026-06-08T12:27:59.972685"
   },
   {
     "municipio": "QUIXABA",
@@ -2272,27 +2272,27 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386830"
+    "data_processamento": "2026-06-08T12:27:59.972687"
   },
   {
     "municipio": "RECIFE",
-    "potencial_destinacao_valor": 254488917.77,
-    "potencial_destinacao_contribuintes": 214711.0,
-    "destinacoes_por_localidade_valor": 7989421.12,
-    "destinacoes_por_localidade_contribuintes": 3749.0,
-    "valor_destinado_fundo": 3702876.33,
-    "quantidade_doacoes_declaradas": 2700.0,
+    "potencial_destinacao_valor": 254632031.93,
+    "potencial_destinacao_contribuintes": 214879.0,
+    "destinacoes_por_localidade_valor": 7973881.7,
+    "destinacoes_por_localidade_contribuintes": 3738.0,
+    "valor_destinado_fundo": 3694222.02,
+    "quantidade_doacoes_declaradas": 2691.0,
     "percentual_crianca_adolescente": 59.1,
     "percentual_pessoa_idosa": 40.9,
-    "darfs_pagos_valor": 3141160.06,
-    "quantidade_doacoes_pagas": 2276.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 3543220.5,
+    "quantidade_doacoes_pagas": 2461.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386831"
+    "data_processamento": "2026-06-08T12:27:59.972689"
   },
   {
     "municipio": "RIACHO DAS ALMAS",
@@ -2306,14 +2306,14 @@
     "percentual_pessoa_idosa": 47.1,
     "darfs_pagos_valor": 12922.87,
     "quantidade_doacoes_pagas": 19.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386832"
+    "data_processamento": "2026-06-08T12:27:59.972690"
   },
   {
     "municipio": "RIBEIRAO",
-    "potencial_destinacao_valor": 505265.4,
+    "potencial_destinacao_valor": 505349.92,
     "potencial_destinacao_contribuintes": 1094.0,
     "destinacoes_por_localidade_valor": 141.71,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -2321,16 +2321,16 @@
     "quantidade_doacoes_declaradas": 1.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 100.0,
-    "darfs_pagos_valor": 0.0,
-    "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 1319.38,
+    "quantidade_doacoes_pagas": 1.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386833"
+    "data_processamento": "2026-06-08T12:27:59.972691"
   },
   {
     "municipio": "RIO FORMOSO",
-    "potencial_destinacao_valor": 254266.2,
+    "potencial_destinacao_valor": 254135.7,
     "potencial_destinacao_contribuintes": 527.0,
     "destinacoes_por_localidade_valor": 3602.89,
     "destinacoes_por_localidade_contribuintes": 2.0,
@@ -2338,17 +2338,17 @@
     "quantidade_doacoes_declaradas": 9.0,
     "percentual_crianca_adolescente": 76.0,
     "percentual_pessoa_idosa": 24.0,
-    "darfs_pagos_valor": 17560.61,
-    "quantidade_doacoes_pagas": 8.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 17966.06,
+    "quantidade_doacoes_pagas": 9.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386835"
+    "data_processamento": "2026-06-08T12:27:59.972691"
   },
   {
     "municipio": "SAIRE",
-    "potencial_destinacao_valor": 153172.76,
-    "potencial_destinacao_contribuintes": 238.0,
+    "potencial_destinacao_valor": 155087.33,
+    "potencial_destinacao_contribuintes": 239.0,
     "destinacoes_por_localidade_valor": 1475.34,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 5554.52,
@@ -2357,10 +2357,10 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 5554.52,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386838"
+    "data_processamento": "2026-06-08T12:27:59.972692"
   },
   {
     "municipio": "SALGADINHO",
@@ -2374,27 +2374,27 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386839"
+    "data_processamento": "2026-06-08T12:27:59.972693"
   },
   {
     "municipio": "SALGUEIRO",
-    "potencial_destinacao_valor": 2095504.21,
-    "potencial_destinacao_contribuintes": 3182.0,
+    "potencial_destinacao_valor": 2095749.27,
+    "potencial_destinacao_contribuintes": 3184.0,
     "destinacoes_por_localidade_valor": 65089.62,
     "destinacoes_por_localidade_contribuintes": 68.0,
     "valor_destinado_fundo": 107308.05,
     "quantidade_doacoes_declaradas": 119.0,
     "percentual_crianca_adolescente": 13.6,
     "percentual_pessoa_idosa": 86.4,
-    "darfs_pagos_valor": 99962.42,
-    "quantidade_doacoes_pagas": 104.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 106030.0,
+    "quantidade_doacoes_pagas": 108.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386840"
+    "data_processamento": "2026-06-08T12:27:59.972694"
   },
   {
     "municipio": "SALOA",
@@ -2408,10 +2408,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386843"
+    "data_processamento": "2026-06-08T12:27:59.972697"
   },
   {
     "municipio": "SANHARO",
@@ -2423,12 +2423,12 @@
     "quantidade_doacoes_declaradas": 16.0,
     "percentual_crianca_adolescente": 42.3,
     "percentual_pessoa_idosa": 57.7,
-    "darfs_pagos_valor": 15484.63,
-    "quantidade_doacoes_pagas": 14.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 16095.37,
+    "quantidade_doacoes_pagas": 15.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386844"
+    "data_processamento": "2026-06-08T12:27:59.972698"
   },
   {
     "municipio": "SANTA CRUZ",
@@ -2442,10 +2442,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386845"
+    "data_processamento": "2026-06-08T12:27:59.972699"
   },
   {
     "municipio": "SANTA CRUZ DA BAIXA VERDE",
@@ -2459,27 +2459,27 @@
     "percentual_pessoa_idosa": 41.2,
     "darfs_pagos_valor": 700.0,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386846"
+    "data_processamento": "2026-06-08T12:27:59.972700"
   },
   {
     "municipio": "SANTA CRUZ DO CAPIBARIBE",
-    "potencial_destinacao_valor": 1139590.31,
-    "potencial_destinacao_contribuintes": 2305.0,
-    "destinacoes_por_localidade_valor": 110230.13,
-    "destinacoes_por_localidade_contribuintes": 140.0,
-    "valor_destinado_fundo": 75069.25,
-    "quantidade_doacoes_declaradas": 105.0,
-    "percentual_crianca_adolescente": 77.3,
-    "percentual_pessoa_idosa": 22.7,
-    "darfs_pagos_valor": 71206.03,
-    "quantidade_doacoes_pagas": 96.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "potencial_destinacao_valor": 1139641.23,
+    "potencial_destinacao_contribuintes": 2307.0,
+    "destinacoes_por_localidade_valor": 107635.42,
+    "destinacoes_por_localidade_contribuintes": 139.0,
+    "valor_destinado_fundo": 72474.55,
+    "quantidade_doacoes_declaradas": 103.0,
+    "percentual_crianca_adolescente": 78.3,
+    "percentual_pessoa_idosa": 21.7,
+    "darfs_pagos_valor": 71888.82,
+    "quantidade_doacoes_pagas": 101.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386847"
+    "data_processamento": "2026-06-08T12:27:59.972701"
   },
   {
     "municipio": "SANTA FILOMENA",
@@ -2491,33 +2491,33 @@
     "quantidade_doacoes_declaradas": 4.0,
     "percentual_crianca_adolescente": 60.0,
     "percentual_pessoa_idosa": 40.0,
-    "darfs_pagos_valor": 762.31,
-    "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 903.52,
+    "quantidade_doacoes_pagas": 3.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386848"
+    "data_processamento": "2026-06-08T12:27:59.972702"
   },
   {
     "municipio": "SANTA MARIA DA BOA VISTA",
-    "potencial_destinacao_valor": 453069.4,
+    "potencial_destinacao_valor": 453114.0,
     "potencial_destinacao_contribuintes": 714.0,
-    "destinacoes_por_localidade_valor": 9487.32,
-    "destinacoes_por_localidade_contribuintes": 15.0,
+    "destinacoes_por_localidade_valor": 8702.01,
+    "destinacoes_por_localidade_contribuintes": 14.0,
     "valor_destinado_fundo": 23013.86,
     "quantidade_doacoes_declaradas": 15.0,
     "percentual_crianca_adolescente": 71.3,
     "percentual_pessoa_idosa": 28.7,
-    "darfs_pagos_valor": 11881.45,
-    "quantidade_doacoes_pagas": 10.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 21331.45,
+    "quantidade_doacoes_pagas": 12.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386849"
+    "data_processamento": "2026-06-08T12:27:59.972703"
   },
   {
     "municipio": "SANTA MARIA DO CAMBUCA",
-    "potencial_destinacao_valor": 83320.78,
+    "potencial_destinacao_valor": 83343.97,
     "potencial_destinacao_contribuintes": 138.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
@@ -2527,10 +2527,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386850"
+    "data_processamento": "2026-06-08T12:27:59.972704"
   },
   {
     "municipio": "SANTA TEREZINHA",
@@ -2544,10 +2544,10 @@
     "percentual_pessoa_idosa": 54.6,
     "darfs_pagos_valor": 2802.66,
     "quantidade_doacoes_pagas": 4.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386851"
+    "data_processamento": "2026-06-08T12:27:59.972705"
   },
   {
     "municipio": "SAO BENEDITO DO SUL",
@@ -2561,31 +2561,31 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386854"
+    "data_processamento": "2026-06-08T12:27:59.972708"
   },
   {
     "municipio": "SAO BENTO DO UNA",
-    "potencial_destinacao_valor": 410939.92,
-    "potencial_destinacao_contribuintes": 765.0,
+    "potencial_destinacao_valor": 410844.72,
+    "potencial_destinacao_contribuintes": 766.0,
     "destinacoes_por_localidade_valor": 29694.73,
     "destinacoes_por_localidade_contribuintes": 33.0,
     "valor_destinado_fundo": 12269.27,
     "quantidade_doacoes_declaradas": 14.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 11556.59,
-    "quantidade_doacoes_pagas": 13.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 12269.27,
+    "quantidade_doacoes_pagas": 14.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386855"
+    "data_processamento": "2026-06-08T12:27:59.972709"
   },
   {
     "municipio": "SAO CAITANO",
-    "potencial_destinacao_valor": 282120.08,
+    "potencial_destinacao_valor": 282121.2,
     "potencial_destinacao_contribuintes": 679.0,
     "destinacoes_por_localidade_valor": 26794.9,
     "destinacoes_por_localidade_contribuintes": 42.0,
@@ -2593,16 +2593,16 @@
     "quantidade_doacoes_declaradas": 62.0,
     "percentual_crianca_adolescente": 51.3,
     "percentual_pessoa_idosa": 48.7,
-    "darfs_pagos_valor": 30281.98,
-    "quantidade_doacoes_pagas": 57.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 33026.91,
+    "quantidade_doacoes_pagas": 62.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386856"
+    "data_processamento": "2026-06-08T12:27:59.972710"
   },
   {
     "municipio": "SAO JOAO",
-    "potencial_destinacao_valor": 219806.91,
+    "potencial_destinacao_valor": 219959.39,
     "potencial_destinacao_contribuintes": 414.0,
     "destinacoes_por_localidade_valor": 1733.39,
     "destinacoes_por_localidade_contribuintes": 3.0,
@@ -2612,15 +2612,15 @@
     "percentual_pessoa_idosa": 17.9,
     "darfs_pagos_valor": 4487.89,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386857"
+    "data_processamento": "2026-06-08T12:27:59.972711"
   },
   {
     "municipio": "SAO JOAQUIM DO MONTE",
-    "potencial_destinacao_valor": 144935.45,
-    "potencial_destinacao_contribuintes": 276.0,
+    "potencial_destinacao_valor": 145015.48,
+    "potencial_destinacao_contribuintes": 277.0,
     "destinacoes_por_localidade_valor": 6970.55,
     "destinacoes_por_localidade_contribuintes": 9.0,
     "valor_destinado_fundo": 11651.37,
@@ -2629,32 +2629,32 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 11651.37,
     "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386858"
+    "data_processamento": "2026-06-08T12:27:59.972714"
   },
   {
     "municipio": "SAO JOSE DA COROA GRANDE",
     "potencial_destinacao_valor": 452000.64,
-    "potencial_destinacao_contribuintes": 604.0,
+    "potencial_destinacao_contribuintes": 605.0,
     "destinacoes_por_localidade_valor": 10021.45,
     "destinacoes_por_localidade_contribuintes": 8.0,
     "valor_destinado_fundo": 54635.41,
     "quantidade_doacoes_declaradas": 26.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 49456.16,
-    "quantidade_doacoes_pagas": 23.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 54635.41,
+    "quantidade_doacoes_pagas": 26.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386859"
+    "data_processamento": "2026-06-08T12:27:59.972715"
   },
   {
     "municipio": "SAO JOSE DO BELMONTE",
     "potencial_destinacao_valor": 597517.27,
-    "potencial_destinacao_contribuintes": 1305.0,
+    "potencial_destinacao_contribuintes": 1306.0,
     "destinacoes_por_localidade_valor": 10464.99,
     "destinacoes_por_localidade_contribuintes": 10.0,
     "valor_destinado_fundo": 7260.51,
@@ -2663,14 +2663,14 @@
     "percentual_pessoa_idosa": 78.4,
     "darfs_pagos_valor": 4903.25,
     "quantidade_doacoes_pagas": 7.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386860"
+    "data_processamento": "2026-06-08T12:27:59.972716"
   },
   {
     "municipio": "SAO JOSE DO EGITO",
-    "potencial_destinacao_valor": 616227.84,
+    "potencial_destinacao_valor": 617002.22,
     "potencial_destinacao_contribuintes": 891.0,
     "destinacoes_por_localidade_valor": 17111.73,
     "destinacoes_por_localidade_contribuintes": 13.0,
@@ -2678,29 +2678,29 @@
     "quantidade_doacoes_declaradas": 43.0,
     "percentual_crianca_adolescente": 12.9,
     "percentual_pessoa_idosa": 87.1,
-    "darfs_pagos_valor": 31505.13,
-    "quantidade_doacoes_pagas": 30.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 36347.43,
+    "quantidade_doacoes_pagas": 35.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386861"
+    "data_processamento": "2026-06-08T12:27:59.972717"
   },
   {
     "municipio": "SAO LOURENCO DA MATA",
-    "potencial_destinacao_valor": 2174908.0,
-    "potencial_destinacao_contribuintes": 5150.0,
+    "potencial_destinacao_valor": 2175014.14,
+    "potencial_destinacao_contribuintes": 5157.0,
     "destinacoes_por_localidade_valor": 19070.93,
     "destinacoes_por_localidade_contribuintes": 28.0,
     "valor_destinado_fundo": 55687.33,
     "quantidade_doacoes_declaradas": 32.0,
     "percentual_crianca_adolescente": 37.2,
     "percentual_pessoa_idosa": 62.8,
-    "darfs_pagos_valor": 51372.23,
-    "quantidade_doacoes_pagas": 26.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 53849.94,
+    "quantidade_doacoes_pagas": 28.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386862"
+    "data_processamento": "2026-06-08T12:27:59.972718"
   },
   {
     "municipio": "SAO VICENTE FERRER",
@@ -2714,31 +2714,31 @@
     "percentual_pessoa_idosa": 51.4,
     "darfs_pagos_valor": 391.11,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386863"
+    "data_processamento": "2026-06-08T12:27:59.972719"
   },
   {
     "municipio": "SERRA TALHADA",
-    "potencial_destinacao_valor": 2674621.2,
-    "potencial_destinacao_contribuintes": 3967.0,
-    "destinacoes_por_localidade_valor": 71076.66,
-    "destinacoes_por_localidade_contribuintes": 57.0,
+    "potencial_destinacao_valor": 2676364.68,
+    "potencial_destinacao_contribuintes": 3972.0,
+    "destinacoes_por_localidade_valor": 71056.66,
+    "destinacoes_por_localidade_contribuintes": 56.0,
     "valor_destinado_fundo": 92024.91,
     "quantidade_doacoes_declaradas": 99.0,
     "percentual_crianca_adolescente": 33.4,
     "percentual_pessoa_idosa": 66.6,
-    "darfs_pagos_valor": 69024.96,
-    "quantidade_doacoes_pagas": 81.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 81539.97,
+    "quantidade_doacoes_pagas": 87.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386867"
+    "data_processamento": "2026-06-08T12:27:59.972721"
   },
   {
     "municipio": "SERRITA",
-    "potencial_destinacao_valor": 109044.27,
+    "potencial_destinacao_valor": 109415.08,
     "potencial_destinacao_contribuintes": 315.0,
     "destinacoes_por_localidade_valor": 498.47,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -2746,34 +2746,34 @@
     "quantidade_doacoes_declaradas": 7.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 100.0,
-    "darfs_pagos_valor": 6345.93,
-    "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 7659.98,
+    "quantidade_doacoes_pagas": 7.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386868"
+    "data_processamento": "2026-06-08T12:27:59.972722"
   },
   {
     "municipio": "SERTANIA",
-    "potencial_destinacao_valor": 548136.31,
-    "potencial_destinacao_contribuintes": 1065.0,
+    "potencial_destinacao_valor": 548100.52,
+    "potencial_destinacao_contribuintes": 1066.0,
     "destinacoes_por_localidade_valor": 19699.84,
     "destinacoes_por_localidade_contribuintes": 22.0,
     "valor_destinado_fundo": 56538.45,
     "quantidade_doacoes_declaradas": 68.0,
     "percentual_crianca_adolescente": 18.5,
     "percentual_pessoa_idosa": 81.5,
-    "darfs_pagos_valor": 53543.02,
-    "quantidade_doacoes_pagas": 64.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 56538.45,
+    "quantidade_doacoes_pagas": 69.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386869"
+    "data_processamento": "2026-06-08T12:27:59.972723"
   },
   {
     "municipio": "SIRINHAEM",
-    "potencial_destinacao_valor": 354344.55,
-    "potencial_destinacao_contribuintes": 940.0,
+    "potencial_destinacao_valor": 354674.15,
+    "potencial_destinacao_contribuintes": 943.0,
     "destinacoes_por_localidade_valor": 1632.42,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 287.0,
@@ -2782,14 +2782,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 287.0,
     "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386870"
+    "data_processamento": "2026-06-08T12:27:59.972724"
   },
   {
     "municipio": "SOLIDAO",
-    "potencial_destinacao_valor": 51456.88,
+    "potencial_destinacao_valor": 51553.19,
     "potencial_destinacao_contribuintes": 132.0,
     "destinacoes_por_localidade_valor": 892.0,
     "destinacoes_por_localidade_contribuintes": 1.0,
@@ -2799,31 +2799,31 @@
     "percentual_pessoa_idosa": 26.6,
     "darfs_pagos_valor": 17065.09,
     "quantidade_doacoes_pagas": 9.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386871"
+    "data_processamento": "2026-06-08T12:27:59.972725"
   },
   {
     "municipio": "SURUBIM",
-    "potencial_destinacao_valor": 1003431.35,
-    "potencial_destinacao_contribuintes": 1878.0,
+    "potencial_destinacao_valor": 1003545.67,
+    "potencial_destinacao_contribuintes": 1879.0,
     "destinacoes_por_localidade_valor": 39501.97,
     "destinacoes_por_localidade_contribuintes": 51.0,
     "valor_destinado_fundo": 26082.56,
     "quantidade_doacoes_declaradas": 24.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 21025.13,
-    "quantidade_doacoes_pagas": 19.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 25725.18,
+    "quantidade_doacoes_pagas": 23.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386872"
+    "data_processamento": "2026-06-08T12:27:59.972726"
   },
   {
     "municipio": "TABIRA",
-    "potencial_destinacao_valor": 483993.46,
+    "potencial_destinacao_valor": 484071.84,
     "potencial_destinacao_contribuintes": 802.0,
     "destinacoes_por_localidade_valor": 1679.26,
     "destinacoes_por_localidade_contribuintes": 3.0,
@@ -2833,15 +2833,15 @@
     "percentual_pessoa_idosa": 79.1,
     "darfs_pagos_valor": 17272.02,
     "quantidade_doacoes_pagas": 19.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386873"
+    "data_processamento": "2026-06-08T12:27:59.972727"
   },
   {
     "municipio": "TACAIMBO",
     "potencial_destinacao_valor": 64984.7,
-    "potencial_destinacao_contribuintes": 235.0,
+    "potencial_destinacao_contribuintes": 236.0,
     "destinacoes_por_localidade_valor": 1907.2,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 0.0,
@@ -2850,15 +2850,15 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386874"
+    "data_processamento": "2026-06-08T12:27:59.972728"
   },
   {
     "municipio": "TACARATU",
-    "potencial_destinacao_valor": 219888.92,
-    "potencial_destinacao_contribuintes": 514.0,
+    "potencial_destinacao_valor": 220218.79,
+    "potencial_destinacao_contribuintes": 515.0,
     "destinacoes_por_localidade_valor": 0.0,
     "destinacoes_por_localidade_contribuintes": 0.0,
     "valor_destinado_fundo": 0.0,
@@ -2867,31 +2867,31 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386875"
+    "data_processamento": "2026-06-08T12:27:59.972729"
   },
   {
     "municipio": "TAMANDARE",
-    "potencial_destinacao_valor": 318623.76,
-    "potencial_destinacao_contribuintes": 704.0,
+    "potencial_destinacao_valor": 318673.71,
+    "potencial_destinacao_contribuintes": 705.0,
     "destinacoes_por_localidade_valor": 3348.77,
     "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 133065.11,
     "quantidade_doacoes_declaradas": 102.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 117155.36,
-    "quantidade_doacoes_pagas": 87.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 130516.27,
+    "quantidade_doacoes_pagas": 95.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386876"
+    "data_processamento": "2026-06-08T12:27:59.972730"
   },
   {
     "municipio": "TAQUARITINGA DO NORTE",
-    "potencial_destinacao_valor": 263341.71,
+    "potencial_destinacao_valor": 263272.98,
     "potencial_destinacao_contribuintes": 413.0,
     "destinacoes_por_localidade_valor": 6339.1,
     "destinacoes_por_localidade_contribuintes": 11.0,
@@ -2901,10 +2901,10 @@
     "percentual_pessoa_idosa": 31.9,
     "darfs_pagos_valor": 7484.46,
     "quantidade_doacoes_pagas": 10.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386879"
+    "data_processamento": "2026-06-08T12:27:59.972733"
   },
   {
     "municipio": "TEREZINHA",
@@ -2918,14 +2918,14 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386880"
+    "data_processamento": "2026-06-08T12:27:59.972734"
   },
   {
     "municipio": "TERRA NOVA",
-    "potencial_destinacao_valor": 66615.52,
+    "potencial_destinacao_valor": 66693.52,
     "potencial_destinacao_contribuintes": 277.0,
     "destinacoes_por_localidade_valor": 4085.2,
     "destinacoes_por_localidade_contribuintes": 3.0,
@@ -2935,31 +2935,31 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386881"
+    "data_processamento": "2026-06-08T12:27:59.972735"
   },
   {
     "municipio": "TIMBAUBA",
     "potencial_destinacao_valor": 1020367.72,
-    "potencial_destinacao_contribuintes": 1514.0,
+    "potencial_destinacao_contribuintes": 1515.0,
     "destinacoes_por_localidade_valor": 9365.36,
     "destinacoes_por_localidade_contribuintes": 11.0,
     "valor_destinado_fundo": 99997.27,
     "quantidade_doacoes_declaradas": 55.0,
     "percentual_crianca_adolescente": 39.8,
     "percentual_pessoa_idosa": 60.2,
-    "darfs_pagos_valor": 55889.62,
-    "quantidade_doacoes_pagas": 48.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 99229.67,
+    "quantidade_doacoes_pagas": 51.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386882"
+    "data_processamento": "2026-06-08T12:27:59.972736"
   },
   {
     "municipio": "TORITAMA",
-    "potencial_destinacao_valor": 238204.95,
+    "potencial_destinacao_valor": 238225.44,
     "potencial_destinacao_contribuintes": 750.0,
     "destinacoes_por_localidade_valor": 12729.12,
     "destinacoes_por_localidade_contribuintes": 14.0,
@@ -2969,10 +2969,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 729.34,
     "quantidade_doacoes_pagas": 3.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386884"
+    "data_processamento": "2026-06-08T12:27:59.972737"
   },
   {
     "municipio": "TRACUNHAEM",
@@ -2986,27 +2986,27 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386885"
+    "data_processamento": "2026-06-08T12:27:59.972738"
   },
   {
     "municipio": "TRINDADE",
     "potencial_destinacao_valor": 385703.84,
-    "potencial_destinacao_contribuintes": 613.0,
+    "potencial_destinacao_contribuintes": 612.0,
     "destinacoes_por_localidade_valor": 8529.12,
     "destinacoes_por_localidade_contribuintes": 5.0,
     "valor_destinado_fundo": 9295.75,
     "quantidade_doacoes_declaradas": 7.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 5395.75,
-    "quantidade_doacoes_pagas": 6.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 9295.75,
+    "quantidade_doacoes_pagas": 7.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386886"
+    "data_processamento": "2026-06-08T12:27:59.972739"
   },
   {
     "municipio": "TRIUNFO",
@@ -3014,16 +3014,16 @@
     "potencial_destinacao_contribuintes": 628.0,
     "destinacoes_por_localidade_valor": 43573.54,
     "destinacoes_por_localidade_contribuintes": 47.0,
-    "valor_destinado_fundo": 151094.13,
-    "quantidade_doacoes_declaradas": 143.0,
+    "valor_destinado_fundo": 151074.13,
+    "quantidade_doacoes_declaradas": 142.0,
     "percentual_crianca_adolescente": 77.5,
     "percentual_pessoa_idosa": 22.5,
-    "darfs_pagos_valor": 134680.7,
-    "quantidade_doacoes_pagas": 120.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 144014.26,
+    "quantidade_doacoes_pagas": 131.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386887"
+    "data_processamento": "2026-06-08T12:27:59.972740"
   },
   {
     "municipio": "TUPANATINGA",
@@ -3035,12 +3035,12 @@
     "quantidade_doacoes_declaradas": 4.0,
     "percentual_crianca_adolescente": 100.0,
     "percentual_pessoa_idosa": 0.0,
-    "darfs_pagos_valor": 22.47,
-    "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 1033.0,
+    "quantidade_doacoes_pagas": 3.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386888"
+    "data_processamento": "2026-06-08T12:27:59.972741"
   },
   {
     "municipio": "TUPARETAMA",
@@ -3054,10 +3054,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386889"
+    "data_processamento": "2026-06-08T12:27:59.972742"
   },
   {
     "municipio": "VENTUROSA",
@@ -3071,10 +3071,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 5409.25,
     "quantidade_doacoes_pagas": 5.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386890"
+    "data_processamento": "2026-06-08T12:27:59.972743"
   },
   {
     "municipio": "VERDEJANTE",
@@ -3088,10 +3088,10 @@
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386893"
+    "data_processamento": "2026-06-08T12:27:59.972746"
   },
   {
     "municipio": "VERTENTE DO LERIO",
@@ -3105,10 +3105,10 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 4794.81,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386894"
+    "data_processamento": "2026-06-08T12:27:59.972748"
   },
   {
     "municipio": "VERTENTES",
@@ -3122,60 +3122,60 @@
     "percentual_pessoa_idosa": 100.0,
     "darfs_pagos_valor": 4955.99,
     "quantidade_doacoes_pagas": 2.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386895"
+    "data_processamento": "2026-06-08T12:27:59.972749"
   },
   {
     "municipio": "VICENCIA",
-    "potencial_destinacao_valor": 342231.26,
+    "potencial_destinacao_valor": 342266.32,
     "potencial_destinacao_contribuintes": 720.0,
-    "destinacoes_por_localidade_valor": 2683.5,
-    "destinacoes_por_localidade_contribuintes": 4.0,
+    "destinacoes_por_localidade_valor": 1346.78,
+    "destinacoes_por_localidade_contribuintes": 3.0,
     "valor_destinado_fundo": 0.0,
     "quantidade_doacoes_declaradas": 0.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 0.0,
     "darfs_pagos_valor": 0.0,
     "quantidade_doacoes_pagas": 0.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386896"
+    "data_processamento": "2026-06-08T12:27:59.972750"
   },
   {
     "municipio": "VITORIA DE SANTO ANTAO",
-    "potencial_destinacao_valor": 3499829.16,
-    "potencial_destinacao_contribuintes": 6161.0,
-    "destinacoes_por_localidade_valor": 87234.35,
-    "destinacoes_por_localidade_contribuintes": 67.0,
-    "valor_destinado_fundo": 71349.19,
-    "quantidade_doacoes_declaradas": 95.0,
-    "percentual_crianca_adolescente": 45.1,
-    "percentual_pessoa_idosa": 54.9,
-    "darfs_pagos_valor": 59866.2,
-    "quantidade_doacoes_pagas": 71.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "potencial_destinacao_valor": 3500445.2,
+    "potencial_destinacao_contribuintes": 6168.0,
+    "destinacoes_por_localidade_valor": 85584.52,
+    "destinacoes_por_localidade_contribuintes": 66.0,
+    "valor_destinado_fundo": 69699.36,
+    "quantidade_doacoes_declaradas": 93.0,
+    "percentual_crianca_adolescente": 45.0,
+    "percentual_pessoa_idosa": 55.0,
+    "darfs_pagos_valor": 66801.64,
+    "quantidade_doacoes_pagas": 79.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386897"
+    "data_processamento": "2026-06-08T12:27:59.972751"
   },
   {
     "municipio": "XEXEU",
-    "potencial_destinacao_valor": 105757.39,
-    "potencial_destinacao_contribuintes": 216.0,
+    "potencial_destinacao_valor": 105802.17,
+    "potencial_destinacao_contribuintes": 217.0,
     "destinacoes_por_localidade_valor": 2079.53,
     "destinacoes_por_localidade_contribuintes": 2.0,
     "valor_destinado_fundo": 4047.58,
     "quantidade_doacoes_declaradas": 2.0,
     "percentual_crianca_adolescente": 0.0,
     "percentual_pessoa_idosa": 100.0,
-    "darfs_pagos_valor": 2214.11,
-    "quantidade_doacoes_pagas": 1.0,
-    "data_referencia_declaracoes": "04/06/2026",
+    "darfs_pagos_valor": 4047.58,
+    "quantidade_doacoes_pagas": 2.0,
+    "data_referencia_declaracoes": "07/06/2026",
     "data_referencia_darfs": "29/05/2026",
     "fonte": "Receita Federal do Brasil",
-    "data_processamento": "2026-06-07T19:21:55.386898"
+    "data_processamento": "2026-06-08T12:27:59.972752"
   }
 ]
